@@ -1,0 +1,2262 @@
+<?php
+//english language
+//view_contact.php
+
+$lang["Contact us"] = "Contact us";
+$lang["Phone Support"] = "Phone Support";
+$lang["Email Support"] = "Email Support";
+$lang["Meet us AT"] = "Meet us at";
+$lang["Name"] = "Name";
+$lang["Email Address"] = "Email Address";
+$lang["Feedback"] = "Feedback";
+$lang["Send"] = "Send";
+
+
+
+//View_deny.php
+
+$lang["Access Dined"] = "Access Denied";
+$lang["Sorry, Permission dined  to access the page."] = "Sorry, Permission denied to access the page.";
+
+//View_faq.php
+
+$lang["Frequently Asked Questions"] = "Frequently Asked Questions";
+$lang["No Faqs Found"] = "No FAQ Found";
+$lang["No friends found"] = "No friends found";
+
+
+//view_search_result.php
+
+$lang["Check in"] = "Check in";
+$lang["Check out"] = "Check out";
+$lang["Guests"] = "Guests";
+$lang["Do you need a place <i>pronto</i>? Join our Standby list!"] = "Do you need a place <i>pronto</i>? Join our Standby list!";
+$lang["List"] = "List";
+$lang["Photo"] = "Photo";
+$lang["Map"] = "Map";
+$lang["Filters:"] = "Filters:";
+$lang["Room type"] = "Room type";
+$lang["Entire home/apt"] = "Entire home/apt";
+$lang["Private room"] = "Private room";
+$lang["Shared room"] = "Shared room";
+$lang["Loading..."] = "Loading...";
+$lang["Your search was a little too specific."] = "Your search was a little too specific.";
+$lang["We suggest unchecking a couple of filters, or searching for a different city."] = "We suggest unchecking a couple of filters, or searching for a different city.";
+$lang["Watch Now!"] = "Watch Now!";
+$lang['results'] = "results";
+
+
+//account/view_nodification.php
+
+
+$lang["Email Settings"] = "Email Settings";
+$lang["Send me emails when"] = "Send me emails when";
+$lang["We promise not to spam, and you can disable these at any time."] = "We promise not to spam, and you can disable these at any time.";
+$lang["has periodic offers and deals on"] = "has periodic offers and deals on";
+$lang["Really cool destinations."] = "Really cool destinations.";
+$lang["has"] = "has";
+$lang["fun company news"] = "fun company news";
+$lang["as well as periodic emails."] = "as well as periodic emails.";
+$lang["Remind me when"] = "Remind me when";
+$lang["Enabling these emails ensures the best possible experience for both hosts and guests."] = "Enabling these emails ensures the best possible experience for both hosts and guests.";
+$lang["I have an upcoming reservation."] = "I have an upcoming reservation.";
+$lang["I have received a new review."] = "I have received a new review.";
+$lang["I need to leave a review for one of my guests."] = "I need to leave a review for one of my guests.";
+$lang["I can fill my last-minute vacancies with"] = "I can fill my last-minute vacancies with";
+$lang["standby guests"] = "standby guests";
+$lang["I can improve my ranking in the search results by updating my calendar."] = "I can improve my ranking in the search results by updating my calendar.";
+$lang["Save Email Settings"] = "Save Email Settings";
+
+
+//account/view_payment_info.php
+
+
+$lang["Information"] = "Information";
+$lang["To what e-mail should we send the money?"] = "To what e-mail should we send the money?";
+$lang["This email address must be associated with a valid Paypal account."] = "This email address must be associated with a valid Paypal account.";
+$lang["Don't have a paypal account?"] = "Don't have a paypal account?";
+$lang["In what currency would you like to be paid?"] = "In what currency would you like to be paid?";
+$lang["Save"] = "Save";
+$lang["or"] = "or";
+$lang["Cancel"] = "Cancel";
+
+
+//account/view_payout.php
+
+$lang["Payout Method"] = "Payout Method";
+$lang["Status"] = "Status";
+$lang["Method"] = "Method";
+$lang["Details"] = "Details";
+$lang["Verified"] = "Verified";
+$lang["Default"] = "Default";
+$lang["Verified"] = "Verified";
+$lang["Add Payout Method"] = "Add Payout Method";
+$lang["Change Default"] = "Change Default";
+$lang["Don't Change Default"] = "Don't Change Default";
+$lang["Our ability to pay you depends on your country of residence:"] = "Our ability to pay you depends on your country of residence:";
+$lang["Next"] = "Next";
+$lang["Set Default"] = "Set Default";
+
+
+//account/view_payout_method.php
+
+$lang[""] = "";
+
+$lang["We can send money to users in"] = "We can send money to users in";
+$lang["as follows:"] = "as follows:";
+$lang["Arrives On*"] = "Arrives On*";
+$lang["Instant"] = "Instant";
+$lang["Fees"] = "Fees";
+$lang["Currency"] = "Currency";
+$lang["Notes"] = "Notes";
+$lang["Money is always released the day after check in but may take longer to arrive to you."] = "Money is always released the day after check in but may take longer to arrive to you.";
+$lang["What method would you prefer?"] = "What method would you prefer?";
+
+
+//account/view_transaction.php
+
+$lang["Transaction History"] = "Transaction History";
+$lang["List ID"] = "Property ID";
+$lang["Traveller Name"] = "Traveller Name";
+$lang["Host Name"] = "Host Name";
+$lang["Check In"] = "Check In";
+$lang["Check Out"] = "Check Out";
+$lang["Price"] = "Price";
+$lang["Once you have reservations, the money that you have earned will be displayed here."] = "Once you have reservations, the money that you have earned will be displayed here.";
+
+
+//home/view_dashboard.php
+
+
+$lang["Edit Profile"] = "Edit Profile";
+$lang["Quick Links"] = "Quick Links";
+$lang["View/Edit Listings"] = "View/Edit Listings";
+$lang["Reservations"] = "Reservations";
+$lang["Welcome to"] = "Welcome to";
+$lang["This is your Dashboard, the place to manage your rental. Update all your personal information from here.."] = "This is your Dashboard, the place to manage your rental. Update all your personal information from here...";
+$lang["Messages"] = "Messages";
+$lang["Nothing to show you."] = "Nothing to show you.";
+$lang["Go to all messages"] = "Go to all messages";
+$lang["Referrals"] = "Referrals";
+$lang["Travel Credit Earned"] = "Travel Credit Earned";
+$lang["Share Link"] = "Share Link";
+$lang["Invite More"] = "Invite More";
+
+
+//home/view_home.php
+
+
+$lang["Book Your Accommodation"] = "Book Your Accommodation";
+
+$lang["Where are you going?"] = "Where are you going?";
+
+$lang["Guests"] = "Guests";
+
+$lang["Search"] = "Search";
+
+$lang["Previous photo"] = "Previous photo";
+
+$lang["Next photo"] = "Next photo";
+$lang["Most Viewed"] = "Most Viewed";
+
+$lang["Most Booked"] = "Most Booked";
+
+$lang["Most Rated"] = "Most Rated";
+
+$lang["Top Locations"] = "Top Locations";
+
+$lang["Latest Ads"] = "Latest Ads";
+
+$lang["How It's Works"] = "How It Works";
+$lang["Facebook Connect"]="Facebook Connect";
+
+// home/view_most.php
+
+$lang["Sorry! No records found."] = "Sorry! No records found.";
+
+// hosting/view_cancel_host.php
+
+
+
+$lang["Cancel Reservation"] = "Cancel Reservation";
+
+$lang["Changes to this reservation are governed by the following Standardized policy."] = "Changes to this reservation are governed by the following Standardized policy.";
+
+$lang["Your ranking in search results will be negatively affected."] = "Your ranking in search results will be negatively affected.";
+
+$lang["An automatic review will appear on your listing indicating that a reservation was cancelled."] = "An automatic review will appear on your listing indicating that a reservation was cancelled.";
+
+$lang["If you cancel more than once in a six-month period, you may be subject to a cancellation fee."] = "If you cancel more than once in a six-month period, you may be subject to a cancellation fee.";
+
+$lang["This fee is given in"] = "This fee is given in";
+
+$lang["the form of a discount to the guest who had their travel plans disrupted to help alleviate the cancellation."] = "the form of a discount to the guest who had their travel plans disrupted to help alleviate the cancellation.";
+
+$lang["Agree the cancellation policy"] = "Agree the cancellation policy";
+
+$lang["Type optional message to guest"] = "Type optional message to guest";
+
+
+//hosting/view_hosting.php
+
+$lang[""] = "";
+$lang["Show"] = "Show";
+
+$lang["all listings"] = "all properties";
+
+$lang["active listings"] = "active properties";
+
+$lang["hidden listings"] = "hidden properties";
+
+$lang["Show all listings"] = "Show all properties";
+
+$lang["Show active"] = "Show active";
+
+$lang["Show hidden"] = "Show hidden";
+
+$lang["Edit Listing"] = "Edit property";
+
+$lang["View Listing"] = "View property";
+
+$lang["View Calendar"] = "View Calendar";
+
+$lang["Active"] = "Active";
+
+$lang["Hide"] = "De-activate";
+
+$lang["You don't have any listings!"] = "You don't have any properties!";
+
+$lang["Listing your space on"] = "Register your accommodation on";
+
+$lang["is an easy way to  monetize any extra space you have."] = "is an easy way to monetize any extra space you have.";
+
+$lang["You'll also get to meet interesting travelers from around the world!"] = "You'll also get to meet interesting travellers from around the world!";
+
+$lang["Post a new listing"] = "Register a new property";
+
+
+// hosting/view_myreservation.php
+
+
+$lang["Print"] = "Print";
+
+$lang["Dates and Location"] = "Dates and Location";
+
+$lang["Guest"] = "Guest";
+
+$lang["Details"] = "Details";
+
+$lang["My Reservations"] = "My Reservations";
+
+$lang["Print this page"] = "Print this page";
+
+$lang["Dates and Location"] = "Dates and Location";
+
+$lang["View"] = "View";
+
+$lang["Message"] = "Message";
+
+$lang["View Confirmation"] = "View Confirmation";
+
+$lang["Cancel Reservation"] = "Cancel Reservation";
+
+$lang["You have no reservations."] = "You have no reservations.";
+
+$lang["Create a new listing"] = "Create a new registration";
+
+
+// hosting/view_policies.php
+
+
+$lang["Refund Policies"] = "Refund Policies";
+$lang["If a guest is transferred to a different location without his or her approval, an appropriate refund will be issued for the reservation."] = "If a guest is transferred to a different location without his or her approval, an appropriate refund will be issued for the reservation.";
+
+$lang["In the event that a property lacks certain utilities for any portion of a stay"] = "In the event that a property lacks certain utilities for any portion of a stay";
+
+$lang["has the authority to withhold payment to the host and will dictate the amount to be refunded for the reservation. The refund will directly correspond to the severity of the malfunction, its duration, and how it was addressed."] = "has the authority to withhold payment to the host and will dictate the amount to be refunded for the reservation. The refund will directly correspond to the severity of the malfunction, its duration, and how it was addressed.";
+
+$lang["The requisite utilities are electricity, heating, and plumbing (including hot and cold water). Sinks, toilets, & showers must all be fully functioning, as should the oven & stove."] = "The requisite utilities are electricity, heating, and plumbing (including hot and cold water). Sinks, toilets, & showers must all be fully functioning, as should the oven & stove.";
+
+$lang["will also issue a partial refund if any appliances that are guaranteed in the listing description (examples: air conditioning, wireless internet, cable television, washer/dryer) are malfunctioning; if any windows, doors, or locks are broken; or if any bedding and towels are not freshly cleaned."] = "will also issue a partial refund if any appliances that are guaranteed in the listing description (examples: air conditioning, wireless internet, cable television, washer/dryer) are malfunctioning; if any windows, doors, or locks are broken; or if any bedding and towels are not freshly cleaned.";
+
+$lang["Any construction in a building, especially of a significant nature, needs to be communicated to a guest prior to the guest's arrival."] = "Any construction in a building, especially of a significant nature, needs to be communicated to a guest prior to the guest's arrival.";
+
+$lang["Please keep in mind that as a host on"] = "Please keep in mind that as a host on";
+
+$lang["your listing must be a transparent representation of the property provided. Pictures on a listing must be kept up-to-date and should reflect any changes to the furnishings. The Description and Amenities sections should accurately reflect exactly what is provided at the accommodations."] = "your listing must be a transparent representation of the property provided. Pictures on a listing must be kept up-to-date and should reflect any changes to the furnishings. The Description and Amenities sections should accurately reflect exactly what is provided at the accommodations.";
+
+$lang["Finally, if there are any vermin in the apartment, a refund is warranted!"] = "Finally, if there are any vermin in the apartment, a refund is warranted!";
+
+$lang["Thank you for helping us maintain a proper level of standards."] = "Thank you for helping us maintain a proper level of standards.";
+
+// hosting/view_standbys.php
+
+$lang["You must have active properties to use this feature."] = "You must have active properties to use this feature.";
+
+
+//includes/account_header.php
+
+$lang["Notification"] = "Notification";
+$lang["Payout Preferences"] = "Payout Preferences";
+$lang["Transaction History"] = "Transaction History";
+$lang["Referrals"] = "Referrals";
+$lang["My Wishlist"]="My Wishlist";
+$lang["Security"]="Security";
+$lang["Settings"]="Settings";
+
+
+// includes/dash_heSecurityader.php
+
+
+$lang["Dashboard"] = "Dashboard";
+
+$lang["Inbox"] = "Inbox";
+
+$lang["Hosting"] = "Hosting";
+
+$lang["Traveling"] = "Traveling";
+
+$lang["Account"] = "Account";
+
+$lang["Profile"] = "Profile";
+
+// includes/editList_header.php
+
+$lang["Description"] = "Description";
+$lang["Photos"] = "Photos";
+$lang["Calendar"] = "Calendar";
+$lang["Pricing and Terms"] = "Pricing and Terms";
+
+
+// includes/footer.php
+
+
+$lang["FAQ"] = "FAQ";
+$lang["Contact"] = "Contact";
+$lang["Join us on"] = "Join us on";
+$lang["Copyrights 2013"] = "Copyrights 2015";
+
+
+// includes/header.php
+
+
+$lang["Where are you going?"] = "Where are you going?";
+
+$lang["How It Works"] = "How It Works";
+
+$lang["Sign Up"] = "Sign Up";
+$lang["Sign In"] = "Log In";
+
+$lang["Hello"] = "Hello";
+
+$lang["Dashboard"] = "Dashboard";
+
+$lang["Admin Panel"] = "Admin Panel";
+
+$lang["Logout"] = "Logout";
+
+$lang['Help']="Help";
+
+$lang["List Your Space"] = "Register Your Property";
+
+$lang['Browse']="Browse";
+
+$lang["See what your friends are saving to their Wish Lists on"]="See what your friends are saving to on Their Wish Lists";
+
+$lang["Popular"]="Popular";
+
+$lang["Friends"]="Friends";
+
+$lang["neighborhoods"]="neighbourhoods";
+
+$lang["Your Trips"]="Your Trips";
+
+$lang["Your Listings"]="Your Properties";
+
+$lang["Wishlists"]="Wishlists";
+
+// includes/hosting_header.php
+
+$lang["Manage Listings"] = "Manage Properties";
+
+$lang["My Reservations"] = "My Reservations";
+
+$lang["Policies"] = "Policies";
+
+// includes/profile_header.php
+
+$lang["Edit Profile"] = "Edit Profile";
+$lang["Change Password"] = "Change Password";
+
+$lang["Get Recommendations"] = "Get Recommendations";
+
+$lang["Reviews & Recommendations"] = "Reviews & Recommendations";
+
+$lang["Referrals"] = "Referrals";
+
+
+// includes/travelling_hdeader.php
+
+$lang["Current Trips"] = "Current Trips";
+
+$lang["Your Trips"] = "Your Trips";
+
+$lang["Previous Trips"] = "Previous Trips";
+
+$lang["Starred Items"] = "Starred Items";
+
+
+// message/ajax_inbox.php
+
+$lang["Delete"] = "Delete";
+
+$lang["Nothing to show you."] = "Nothing to show you.";
+
+
+// message/inbox.php
+
+$lang["Inbox"] = "Inbox";
+$lang["Nothing to show you."] = "Nothing to show you.";
+
+// payments/paypal_cancel.php
+
+
+$lang["Payment Canceled!"] = "Payment Canceled!";
+$lang["The order was canceled."] = "The order was canceled.";
+
+// payments/paypal_form.php
+
+$lang["PayPal Library for Code Igniter"] = "PayPal Library for Code Igniter";
+
+//payments/paypal_success.php
+
+$lang["Payment Success!"] = "Payment Success!";
+$lang["Your payment was received using Paypal."] = "Your payment was received using Paypal.";
+
+// payments/view_booking.php
+
+$lang["1. How it works"] = "1. How it works";
+
+$lang["Please provide your billing details now and the place shall be booked for your purpose"] = "Please provide your billing details now and the place shall be booked for your purpose";
+
+$lang["2. Property details"] = "2. Property details";
+$lang["Accommodates "] = "Accommodates ";
+
+$lang["guests"] = "guests";
+
+$lang["3. Trip Details"] = "3. Trip Details";
+
+$lang["Check in"] = "Check in";
+
+$lang["(Flexible check in time)"] = "(Flexible check in time)";
+
+$lang["Check out"] = "Check out";
+
+$lang["(Flexible check out time)"] = "(Flexible check out time)";
+
+$lang["Nights"] = "Nights";
+
+$lang["Guests"] = "Guests";
+
+$lang["Rate (per night)"] = "Rate (per night)";
+$lang["Subtotal"] = "Subtotal";
+
+$lang["Coupon Code?"] = "Coupon Code?";
+
+$lang["Coupon"] = "Coupon";
+
+$lang["Apply Coupon"] = "Apply Coupon";
+
+$lang["cancel"] = "cancel";
+
+$lang["Commission"] = "Commission";
+
+$lang["Total"] = "Total";
+
+$lang["4. Payment options"] = "4. Payment options";
+
+$lang["Credit Card"] = "Credit Card";
+
+$lang["Name (as it appears on the card)"] = "Name (as it appears on the card)";
+
+$lang["Expiry Date"] = "Expiry Date";
+
+$lang["Card Number"] = "Card Number";
+
+$lang["PayPal"] = "PayPal";
+
+$lang["This payment transacts in"] = "This payment transacts in";
+
+$lang["Your total charge is"] = "Your total charge is";
+
+$lang["Instructions"] = "Instructions";
+
+$lang["After clicking 'Book it' you will be redirected to PayPal to complete payment."] = "After clicking 'Book it' you will be redirected to PayPal to complete payment.";
+
+$lang["You must complete the process or the transaction will not occur."] = "You must complete the process or the transaction will not occur.";
+
+$lang["2Checkout"] = "2Checkout";
+
+$lang["This payment transacts in"] = "This payment transacts in";
+
+$lang["Your total charge is"] = "Your total charge is";
+
+$lang["Instructions:"] = "Instructions:";
+
+$lang["After clicking 'Book it' you will be redirected to 2Checkout to complete payment."] = "After clicking 'Book it' you will be redirected to 2Checkout to complete payment.";
+
+$lang["You must complete the process or the transaction will not occur."] = "You must complete the process or the transaction will not occur.";
+
+$lang["5. Policies"] = "5. Policies";
+
+$lang["Cancellation"] = "Cancellation";
+
+$lang["Flexible"] = "Flexible";
+
+$lang["House Rules"] = "House Rules";
+
+$lang["Read Policy"] = "Read Policy";
+
+$lang["I agree to the cancellation policy and house rules."] = "I agree to the cancellation policy and house rules.";
+$lang["Book it"] = "Book it";
+$lang["4. Policies"] = "4. Policies";
+$lang["Flexible"] = "Flexible";
+$lang["Must be made a full 24 hours prior to 12:00 AM local time on the day of check in.  For example, if check-in is on Friday, cancel by the previous Wednesday at midnight."] = "Must be made a full 24 hours prior to 12:00 AM local time on the day of check in. For example, if check-in is on Friday, cancel by the previous Wednesday at midnight.";
+$lang["If the guest arrives and decides to leave early, the nights not spent 24 hours after the official cancellation are 100% refunded."] = "If the guest arrives and decides to leave early, the nights not spent 24 hours after the official cancellation are 100% refunded.";
+$lang["If the guest cancels less than 24 hours before check-in, the first night is non-refundable."] = "If the guest cancels less than 24 hours before check-in, the first night is non-refundable.";
+
+$lang["If the guest cancels after the check-in date, the nights beginning 24 hours after the cancellation will be refunded."] = "If the guest cancels after the check-in date, the nights beginning 24 hours after the cancellation will be refunded.";
+
+$lang["Cleaning fees are always refunded if the guest did not check in."] = "Cleaning fees are always refunded if the guest did not check in.";
+
+$lang["The service fee is non-refundable."] = "The service fee is non-refundable.";
+
+$lang["If there is a complaint from either party, notice must be given to us within 24 hours of check-in."] = "If there is a complaint from either party, notice must be given to us within 24 hours of check-in.";
+
+$lang["We will mediate when necessary, and has the final say in all disputes."] = "We will mediate when necessary, and has the final say in all disputes.";
+
+$lang["A reservation is not officially canceled until the guest receives a cancellation confirmation e-mail from us. To get your cancellation e-mail, go to Travel Plans."] = "A reservation is not officially canceled until the guest receives a cancellation confirmation e-mail from us. To get your cancellation e-mail, go to Travel Plans.";
+
+$lang["If the host reports a problem, we will capture the entire authorized amount while we gather additional information from both parties. If a compromise is reached, we will refund the agreed upon amount. Although it is primarily up to the host to determine the extent of the damage, We tracks every claim
+that is made, and if a host develops a trend of claiming damages in order to keep the security deposit, the host may removed from "] = "If the host reports a problem, we will capture the entire authorized amount while we gather additional information from both parties. If a compromise is reached, we will refund the agreed upon amount. Although it is primarily up to the host to determine the extent of the damage, We tracks every claim
+that is made, and if a host develops a trend of claiming damages in order to keep the security deposit, the host may removed from ";
+
+
+$lang["Subtotal Breakdown"] = "Subtotal Breakdown";
+$lang["A variety of factors contribute to how the subtotal is calculated. Below is a detailed explanation."] = "A variety of factors contribute to how the subtotal is calculated. Below is a detailed explanation.";
+
+
+// payments/view_listPay.php
+
+$lang["Payment options"] = "Payment options";
+$lang["Credit Card"] = "Credit Card";
+$lang["Name (as it appears on the card)"] = "Name (as it appears on the card)";
+$lang["Expiry Date"] = "Expiry Date";
+$lang["Card Number"] = "Card Number";
+$lang["This payment transacts in"] = "This payment transacts in";
+$lang["Your total charge is"] = "Your total charge is";
+$lang["Instructions:"] = "Instructions:";
+$lang["After clicking 'Book it' you will be redirected to PayPal to complete payment."] = "After clicking 'Book it' you will be redirected to PayPal to complete payment.";
+$lang["You must complete the process or the transaction will not occur."] = "You must complete the process or the transaction will not occur.";
+$lang["This payment transacts in"] = "This payment transacts in";
+$lang["Your total charge is"] = "Your total charge is";
+$lang["After clicking 'Book it' you will be redirected to PayPal to complete payment."] = "After clicking 'Book it' you will be redirected to PayPal to complete payment.";
+
+$lang["You must complete the process or the transaction will not occur."] = "You must complete the process or the transaction will not occur.";
+
+$lang["This payment transacts in"] = "This payment transacts in";
+$lang["Your total charge is"] = "Your total charge is";
+$lang["You must complete the process or the transaction will not occur."] = "You must complete the process or the transaction will not occur.";
+$lang["I agree the terms and conditions."] = "I agree the terms and conditions.";
+$lang["Book it"] = "Book it";
+
+
+// referrals/view_referrals.php
+
+$lang["Invite Your Friends"] = "Invite Your Friends";
+$lang["Preview"] = "Preview";
+$lang["I think you deserve a trip!"] = "I think you deserve a trip!";
+$lang["We'll help you pay for it."] = "We'll help you pay for it.";
+$lang["I joined"] = "I joined";
+$lang["and you should too!"] = "and you should too!";
+$lang["is a marketplace for finding and listing cool places to stay. Sign up right now and you will save"] = "is a marketplace for finding and listing cool places to stay. Sign up right now and you will save";
+$lang["off your first trip."] = "off your first trip.";
+$lang["Post to their wall"] = "Post to their wall";
+$lang["You'll get"] = "You'll get";
+$lang["when they take a trip"] = "when they take a trip";
+$lang["when they rent out their place."] = "when they rent out their place.";
+$lang["Get Started"] = "Get Started";
+$lang["Add a personal message..."] = "Add a personal message...";
+$lang["Invite"] = "Invite";
+$lang['Back'] = "Back";
+$lang["Share Link"] = "Share Link";
+$lang["Travel Credit"] = "Travel Credit";
+$lang["Friend Uses"] = "Friend Uses";
+$lang["I've been renting out my place on"] = "I've been renting out my place on";
+$lang['to meet interesting people and earn extra cash. I highly recommend you join me by listing your space. Cheers!']="to meet interesting people and earn extra cash. I highly recommend you join me by registering your accoomodation. Cheers!";
+
+// referrals/view_referrals_email.php
+
+
+$lang["Email Your Friends"] = "Email Your Friends";
+$lang["To:"] = "To:";
+$lang["Add Another Friend"] = "Add Another Friend";
+$lang["Message:"] = "Message:";
+$lang["I've been using"] = "I've been using";
+$lang["to find neat accommodations when traveling, and make money renting out my place. Sign up now and save"] = "to find neat accommodations when traveling, and make money renting out my place. Sign up now and save";
+$lang["off your first trip. Cheers!"] = "off your first trip. Cheers!";
+$lang["Send Invites"] = "Send Invites";
+
+//referrals/view_referrals_email.php
+
+$lang["Send Invites"] = "Send Invites";
+
+// referrals/view_tell_friend.php
+
+$lang["Take a trip!"] = "Take a trip!";
+$lang["We'll help you pay for it."] = "We'll help you pay for it.";
+$lang["With"] = "With";
+$lang["you can discover and book unique spaces around the world. Join now and save"] = "you can discover and book unique spaces around the world. Join now and save";
+$lang["off your first trip of $75 or more!"] = "off your first trip of $75 or more!";
+$lang["Sign up"] = "Sign up";
+
+// rooms/view_add_list.php
+
+
+$lang["List your space."] = "Register your Property.";
+$lang["lets you make money renting out your place."] = ", lets generate more bookings for you!";
+$lang["Your apartment will pay for itself!"] = "Your apartment will pay for itself!";
+$lang["Learn more"] = "Learn more";
+$lang["Details"] = "Details";
+$lang["Public"] = "Public";
+$lang["Your place is amazing and unique. Tell potential guests why they would want to stay there. Highlight what makes your home a standout!"] = "Your place is amazing and unique. Tell potential guests why they would want to stay there. Highlight what makes your home a standout!";
+$lang["Property Type:"] = "Property Type:";
+$lang['No Property Type'] = 'No Property Type';
+$lang["Accommodates:"] = "Accommodates:";
+$lang["Privacy:"] = "Privacy:";
+$lang["Private room"] = "Private room";
+$lang["Entire home/apt"] = "Entire home/apt";
+$lang["Bedrooms:"] = "Bedrooms:";
+$lang["bedroom"] = "bedroom";
+$lang["Title:"] = "Title:";
+$lang["Description:"] = "Description:";
+$lang["Price:"] = "Price:";
+$lang["per month"] = "per month";
+$lang["flat rate"] = "flat rate";
+$lang["We suggest:"] = "We suggest:";
+$lang["Find Your Address"] = "Find Your Address";
+$lang["Protected"] = "Protected";
+$lang["Your contact information and full address are only shared with guests that you have accepted. We hide these details from everybody else."] = "Your contact information and full address are only shared with guests that you have accepted. We hide these details from everybody else.";
+$lang["Full address:"] = "Full address:";
+$lang["Change Location"] = "Change Location";
+$lang["Whoops! The address you selected is not specific enough. Try entering your address with the full street number."] = "Whoops! The address you selected is not specific enough. Try entering your address with the full street number.";
+$lang["Did you mean:"] = "Did you mean:";
+$lang["Your Address:"] = "Your Address:";
+$lang["Is this your exact address?"] = "Is this your exact address?";
+$lang["Yes"] = "Yes";
+$lang["&mdash; this is my exact address"] = "&mdash; this is my exact address";
+$lang["No"] = "No";
+$lang["&mdash; this is the closest I can get, I need to give directions"] = "&mdash; this is the closest I can get, I need to give directions";
+$lang["Directions to your place:"] = "Directions to your place:";
+$lang["Email Address:"] = "Email Address:";
+$lang["Save & Continue"]="Save & Continue";
+$lang["Please Select neighborhood place"]="Please Select neighbourhood place";
+$lang["Phone:"] = "Phone:";
+$lang["Please fix the following errors:"] = "Please fix the following errors:";
+
+
+// rooms/view_calender_single.php
+
+$lang["View Listing"] = "View Property";
+$lang["View All Listing"] = "View All Properties";
+$lang["Per night"] = "Per night";
+$lang["Booked Using"] = "Booked Using";
+$lang["Submit"] = "Submit";
+
+// rooms/view_edit_confirm.php
+
+$lang["Edit this Listing"] = "Edit this property";
+$lang["Upload photos, change pricing, edit details"] = "Upload photos, change pricing, edit details";
+$lang["Calendar"] = "Calendar";
+$lang["Change the availability of"] = "Change the availability of";
+$lang["Update Your Profile"] = "Update Your Profile";
+$lang["Upload a new profile image and change your profile"] = "Upload a new profile image and change your profile";
+$lang["Street View"] = "Street View";
+$lang["Photos"] = "Photos";
+$lang["Maps"] = "Maps";
+$lang["Street View"] = "Street View";
+$lang["Unable to find street view of this location."] = "Unable to find street view of this location.";
+$lang["Rotate Street View"] = "Rotate Street View";
+$lang["Select Month :"] = "Select Month :";
+$lang["Available"] = "Available";
+$lang["Unavailable"] = "Unavailable";
+$lang["Past"] = "Past";
+$lang["The calendar is updated every five minutes and is only an approximation of availability. We suggest that you contact the host to confirm."] = "The calendar is updated every five minutes and is only an approximation of availability. We suggest that you contact the host to confirm.";
+$lang["Description"] = "Description";
+$lang["Amenities"] = "Amenities";
+$lang["House Rules"] = "House Rules";
+$lang["Translate this description to English"] = "Translate this description to English";
+$lang["This host has not specified any house rules."] = "This host has not specified any house rules.";
+$lang["Share Where"] = "Share Where";
+$lang["close"] = "close";
+$lang["Spread the love! Share this URL:"] = "Spread the love! Share this URL:";
+$lang["Reviews"] = "Reviews";
+$lang["Overall Guest Satisfaction"] = "Overall Guest Satisfaction";
+$lang["Accuracy"] = "Accuracy";
+$lang["Cleanliness"] = "Cleanliness";
+$lang["Checkin"] = "Check in";
+$lang["Communication"] = "Communication";
+$lang["Location"] = "Location";
+$lang["Value"] = "Value";
+$lang["No reviews found."] = "No reviews found.";
+$lang["From"] = "From";
+$lang["Check in"] = "Check in";
+$lang["Guests"] = "Guests";
+$lang["Subtotal"] = "Subtotal";
+$lang["Book Now"] = "Book Now";
+$lang["Those dates are not available"] = "Those dates are not available";
+$lang["View Other Listings"] = "View Other Accommodations";
+$lang["Includes"] = "Includes";
+$lang["cleaning fee"] = "cleaning fee";
+$lang["Excludes"] = "Excludes";
+$lang["service fee"] = "service fee";
+
+$lang["First Name:"] = "First Name:";
+$lang["Last Name:"] = "Last Name:";
+$lang["Living in:"] = "Living in:";
+$lang["Working in:"] = "Working in:";
+$lang["About Me:"] = "About Me:";
+$lang["Details"] = "Details";
+$lang["Room type:"] = "Room type:";
+$lang["Accommodates:"] = "Accommodates:";
+$lang["Bedrooms:"] = "Bedrooms:";
+$lang["Extra people:"] = "Extra people:";
+$lang["Cleaning Fee:"] = "Cleaning Fee:";
+$lang["Weekly Price:"] = "Weekly Price:";
+$lang["Not Available"] = "Not Available";
+$lang["Monthly Price:"] = "Monthly Price:";
+$lang["Not Available"] = "Not Available";
+$lang["City:"] = "City:";
+$lang["State:"] = "State:";
+$lang["Country:"] = "Country:"; 
+$lang["Address:"] = "Address:";
+$lang["Cancellation:"] = "Cancellation:";
+$lang["Flexible"] = "Flexible";
+$lang["My Other Listings"] = "My Other Properties";
+$lang["rooms"] = "rooms";
+$lang["Ads"] = "Ads";
+$lang["Sorry Such a room number does not exit "] = "Sorry Such a room number does not exist ";
+$lang["Please confirm availability"] = "Please confirm availability";
+$lang["This host requires that you confirm availability before making a reservation.  Please send a message to the host and wait for a response before booking."] = "This host requires that you confirm availability before making a reservation. Please send a message to the host and wait for a response before booking.";
+$lang["Contact Host"] = "Contact Host";
+$lang["Share"] = "Share";
+
+// rooms/view_edit_listing.php
+
+ 
+$lang["View All Listing"] = "View All Properties";
+$lang["Listing Type"] = "Accommodation Type";
+$lang["Property type"] = "Property type";
+$lang["What is the property type?"] = "What is the property type?";
+$lang["Room type"] = "Room type";
+$lang["What is the room type?"] = "What is the room type?";
+$lang["English"] = "English";
+$lang["Title"] = "Title";
+$lang["Description"] = "Description";
+
+$lang["Tips for writing a great description:"] = "Tips for writing a great description:";
+$lang["What makes your place unique?"] = "What makes your place unique?";
+$lang["What is your neighborhood like?"] = "What is your neighbourhood like?";
+$lang["What is the state of the room offered?"] = "What is the state of the room offered?";
+$lang["Amenities"] = "Amenities";
+$lang["Details"] = "Details";
+$lang["Accommodates"] = "Accommodates";
+$lang["The Maximum number of guests."] = "The Maximum number of guests.";
+$lang["Bedrooms"] = "Bedrooms";
+$lang["bedroom"] = "bedroom";
+$lang["How many bedrooms, couches, futons, etc. do you offer?"] = "How many bedrooms, couches, futons, etc. do you offer?";
+$lang["Beds"] = "Beds";
+$lang["How many beds, couches, futons, etc. do you offer?"] = "How many beds, couches, futons, etc. do you offer?";
+$lang["House Manual"] = "House Manual";
+$lang["Private: Only guests with a confirmed reservation will receive this information. For example, WIFI password, lockbox code, parking information."] = "Private: Only guests with a confirmed reservation will receive this information.  For example, WIFI password, lockbox code, parking information.";
+$lang["Location Information"] = "Location Information";
+$lang["Edit address"] = "Edit address";
+$lang["Exact address"] = "Exact address";
+$lang["Public View"] = "Public View";
+$lang["Currently editing"] = "Currently editing";
+$lang["This is how your address appears on your public listing"] = "This is how your address appears on your public listing";
+$lang["Street View"] = "Street View";
+$lang["View"] = "View";
+$lang["Directions"] = "Directions";
+$lang["Save"] = "Save";
+
+// rooms/view_edit_photo.php
+
+
+$lang["View Listing"] = "View Registration";
+$lang["View All Listing"] = "View All Properties";
+$lang["Upload"] = "Upload";
+$lang["Edit"] = "Edit";
+$lang["Upload photo"] = "Upload photo";
+$lang["Upload"] = "Upload";
+$lang["You can upload a maximum of 100 photos to your listing."] = "You can upload a maximum of 100 photos to your property.";
+$lang["Suggested Size is 640x425 pixels, 2MB or less."] = "Suggested Size is 1024x768 pixels, maximum 10MB.";
+$lang["Photo tips."] = "Photo tips.";
+$lang["Update"] = "Update";
+
+// rooms/view_edit_price.php
+
+
+$lang["View Listing"] = "View Property";
+$lang["View All Listing"] = "View All Properties";
+$lang["Basic Pricing"] = "Basic Pricing";
+$lang["Nightly"] = "Nightly";
+$lang["Weekly"] = "Weekly";
+$lang["We recommend "] = "We recommend ";
+$lang["based on your nightly price"] = "based on your nightly price";
+$lang["Monthly"] = "Monthly";
+$lang["We recommend"] = "We recommend";
+$lang["Additional Costs"] = "Additional Costs";
+$lang["based on your nightly price"] = "based on your nightly price";
+$lang["Additional Costs"] = "Additional Costs";
+$lang["Additional Guests"] = "Additional Guests";
+$lang["Per night for each guest after"] = "Per night for each guest after";
+$lang["Cleaning Fees"] = "Cleaning Fees";
+$lang["Security Deposit"] = "Security Deposit";
+$lang["This is a refundable amount"] = "This is a refundable amount";
+$lang["Save"] = "Save";
+
+// travelling/view_cancel_travel.php
+
+
+$lang["Cancel Reservation"] = "Cancel Reservation";
+$lang["Changes to this reservation are governed by the following Standardized policy."] = "Changes to this reservation are governed by the following Standardized policy.";
+$lang["No of nights"] = "No of nights";
+$lang["Non-refundable nights"] = "Non-refundable nights";
+$lang["Service fee is not refundable."] = "Service fee is not refundable.";
+$lang["Agree the cancellation policy"] = "Agree the cancellation policy";
+$lang["Type optional message to guest"] = "Type optional message to guest";
+
+// travelling/view_chekin.php
+
+$lang["Checkin"] = "Checkin";
+$lang["Are you sure to checkin?"] = "Are you sure to checkin?";
+$lang["Checkin"] = "Checkin";
+
+// travelling/view_checkout.php
+
+$lang["Checkout"] = "Checkout";
+$lang["Are you sure to checkout?"] = "Are you sure to checkout?";
+$lang["Checkout"] = "Checkout";
+
+// travelling/view_current_tips.php
+
+$lang["Print"] = "Print";
+$lang["Status"] = "Status";
+$lang["Location"] = "Location";
+$lang["Host"] = "Host";
+$lang["Dates"] = "Dates";
+$lang["Current Trips"] = "Current Trips";
+$lang["Print this page"] = "Print this page";
+$lang["Status"] = "Status";
+$lang["Options"] = "Options";
+$lang["View"] = "View";
+$lang["Send"] = "Send";
+$lang["Checkout"] = "Checkout";
+$lang["View Billing"] = "View Billing";
+$lang["Cancel Reservation"] = "Cancel Reservation";
+$lang["You have no current trips."] = "You have no current trips.";
+$lang["Search"] = "Search";
+
+
+// taravelling/view_host_deals.php
+
+$lang["Page will be coming soon."] = "Page will be coming soon.";
+
+//travelling/view_previous_trips.php
+
+
+$lang["Previous Trips"] = "Previous Trips";
+$lang["Print this page"] = "Print this page";
+$lang["View"] = "View";
+$lang["Send"] = "Send";
+$lang["Message"] = "Message";
+$lang["Message History"] = "Message History";
+$lang["You have no current trips."] = "You have no current trips.";
+$lang["Search"] = "Search";
+
+// travelling/view_starred_list.php
+
+$lang["Starred Items"] = "Starred Items";
+$lang["You have no current trips."] = "You have no current trips.";
+
+
+// travelling/view_upcomming_trips.php
+
+
+$lang["Your Trips"] = "Your Trips";
+$lang["Print this page"] = "Print this page";
+$lang["Status"] = "Status";
+$lang["Checkin"] = "Check-in";
+$lang["Checkin"] = "Check-in";
+$lang["You have no upcomming trips."] = "You have no upcoming trips.";
+
+// trips/request.php
+
+$lang["Property"] = "Property";
+$lang["Check in"] = "Check in";
+$lang["Check out"] = "Check out";
+$lang["Nights"] = "Nights";
+$lang["Guests"] = "Guests";
+$lang["Cancellation"] = "Cancellation";
+$lang["Rate"] = "Rate";
+$lang["per night"] = "per night";
+
+$lang["Subtotal"] = "Subtotal";
+$lang["Host fee"] = "Host fee";
+$lang["Total Payout"] = "Total Pay-out";
+$lang["Quick Links"] = "Quick Links";
+$lang["View/Edit Listings"] = "View/Edit Properties";
+$lang["Reservations"] = "Reservations";
+$lang["Reservation Request"] = "Reservation Request";
+$lang["Print Confirmation"] = "Print Confirmation";
+$lang["Property"] = "Property";
+$lang["Subtotal"] = "Subtotal";
+$lang["Host fee"] = "Host fee";
+$lang["Total Payout"] = "Total Pay-out";
+$lang["Expires in"] = "Expires in";
+$lang["Status"] = "Status";
+$lang["Accept"] = "Accept";
+$lang["Decline"] = "Decline";
+$lang["Block my calendar from"] = "Block my calendar from";
+$lang["through"] = "through";
+$lang["Type optional message to guest"] = "Type optional message to guest";
+$lang["Accept"] = "Accept";
+$lang["Block my calendar from"] = "Block my calendar from";
+$lang["through"] = "through";
+$lang["Type optional message to guest"] = "Type optional message to guest";
+$lang["Decline"] = "Decline";
+
+// trips/view_conversation.php
+
+$lang["Conversation with"] = "Conversation with";
+$lang["From"] = "From";
+$lang["Member since"] = "Member since";
+$lang["You"] = "You";
+$lang["Send Message"] = "Send Message";
+$lang["You"] = "You";
+$lang["about"] = "about";
+$lang["guest"] = "guest";
+$lang["about"] = "about";
+$lang["Quick Links"] = "Quick Links";
+$lang["View/Edit Listings"] = "View/Edit Properties";
+$lang["Reservations"] = "Reservations";
+
+// trips/view_host_review.php
+
+
+$lang["Your Review"] = "Your Review";
+$lang["Public"] = "Public";
+$lang["Your experience"] = "Your experience";
+$lang["Private"] = "Private";
+$lang["Feedback to Guest"] = "Feedback to Guest";
+$lang["Private"] = "Private";
+$lang["Cleanliness"] = "Cleanliness";
+$lang["Communication"] = "Communication";
+$lang["Observations of house rules"] = "Observations of house rules";
+
+
+// trips/view_review_host.php
+
+$lang["Review"] = "Review";
+$lang["Share your experience"] = "Share your experience";
+$lang["Please review the guest. This will appear on their profile page."] = "Please review the guest. This will appear on their profile page.";
+$lang["Private"] = "Private";
+$lang["Feedback to Guest"] = "Feedback to Guest";
+$lang["How can this person be a better guest? Only they will see your feedback."] = "How can this person be a better guest? Only they will see your feedback.";
+$lang["Private"] = "Private";
+$lang["Cleanliness"] = "Cleanliness";
+$lang["Very poor"] = "Very poor";
+$lang["Poor"] = "Poor";
+$lang["OK"] = "OK";
+$lang["Good"] = "Good";
+$lang["Very Good"] = "Very Good";
+$lang["Communication"] = "Communication";
+$lang["Submit"] = "Submit";
+
+// trips/view_review_traveller.php
+
+$lang["Review"] = "Review";
+$lang["Share your experience"] = "Share your experience";
+$lang["Please review the guest. This will appear on their profile page."] = "Please review the guest. This will appear on their profile page.";
+$lang["Private"] = "Private";
+$lang["Feedback to Guest"] = "Feedback to Guest";
+$lang["How can this person be a better guest? Only they will see your feedback."] = "How can this person be a better guest? Only they will see your feedback.";
+$lang["Cleanliness"] = "Cleanliness	";
+$lang["Accuracy"] = "Accuracy";
+$lang["Value"] = "Value";
+$lang["Location"] = "Location";
+
+// users/view_edit_profile.php
+
+
+$lang["About You"] = "About You";
+$lang["Name:"] = "Name:";
+$lang["Email:"] = "Email:";
+$lang["Where You Live:"] = "Where You Live:";
+$lang["Work:"] = "Work:";
+$lang["Phone Number:"] = "Phone Number:";
+$lang["Describe Yourself"] = "Describe Yourself";
+$lang["Save Changes"] = "Save Changes";
+
+// users/view_forgot_password.php
+
+
+$lang["Reset Password"] = "Reset Password";
+$lang["Enter your e-mail address to have the password associated with that account reset. A new password will be e-mailed to the address."] = "Enter your e-mail address to have the password associated with that account reset. A new password will be e-mailed to the address.";
+
+// users/view_recommendations.php
+
+$lang["Share This URL"] = "Share This URL";
+$lang["Share this Personal Recommendation URL with your friends so they can leave you recommendations."] = "Share this Personal Recommendation URL with your friends so they can leave you recommendations.";
+$lang["Help!"] = "Help!";
+$lang["Email your friends"] = "Email your friends";
+$lang["Enter up to 10 email addresses, separated by commas. We will send an individual email that includes your"] = "Enter up to 10 email addresses, separated by commas. We will send an individual email that includes your";
+$lang["Personal Recommendation URL"] = "Personal Recommendation URL";
+$lang["to each person."] = "to each person.";
+$lang["Invite these people"] = "Invite these people";
+
+// users/view_reviews.php
+
+$lang["Reviews & Recommendations"] = "Reviews & Recommendations";
+$lang["Reviews are allowed only at the end of a trip booked through"] = "Reviews are allowed only at the end of a trip booked through";
+$lang["Recommendations are earned by inviting your friends to vouch for you."] = "Recommendations are earned by inviting your friends to vouch for you.";
+$lang["Get Recommendations"] = "Get Recommendations";
+$lang["About You"] = "About You";
+$lang["By You"] = "By You";
+$lang["Review"] = "Review";
+
+$lang["No one has reviewed you yet."] = "No one has reviewed you yet.";
+$lang["Recommendation"] = "Recommendation";
+$lang["There is no recommends"] = "There is no recommends";
+$lang["Learn how to get Recommendations"] = "Learn how to get Recommendations";
+$lang["You have not reviewed or recommended anyone yet"] = "You have not reviewed or recommended anyone yet";
+
+// users/view_signIn.php
+
+
+$lang["Sign in to your Dropinn Account"] = "Log in to your Bookerator Account";
+
+$lang["Sign in using Facebook:"] = "Log in using Facebook:";
+$lang["Create Your Account"] = "Create Your Account";
+$lang["Sign up"] = "Sign up";
+$lang["Enter your username or email"] = "Enter your username or email";
+$lang["Password"] = "Password";
+$lang["Sign in"] = "Log in";
+
+$lang["Remember me next time"] = "Remember me next time";
+$lang["Sign up for Dropinn"] = "Sign up for Bookerator";
+$lang["Sign up using Facebook:"] = "Sign up using Facebook:";
+$lang["Already a member"] = "Already a member";
+$lang["First name"] = "First name";
+$lang["Last name"] = "Last name";
+$lang["User name"] = "User name";
+
+$lang["Email Address"] = "Email Address";
+$lang["Password"] = "Password";
+$lang["Confirm Password"] = "Confirm Password";
+$lang["Sign up"] = "Sign up";
+
+// users/view_signUp.php
+
+$lang["Sign up for Dropinn"] = "Sign up for Bookerator";
+$lang["Sign up using Facebook:"] = "Sign up using Facebook:";
+$lang["Already a member"] = "Already a member";
+$lang["Sign in to your Dropinn Account"] = "Log in to your Bookerator Account";
+$lang["Sign in using Facebook:"] = "Log in using Facebook:";
+$lang["Create Your Account"] = "Create Your Account";
+$lang[""] = "";
+
+$lang["Enter your username or email"] = "Enter your username or email";
+$lang["Password"] = "Password";
+$lang["Remember me next time"] = "Remember me";
+
+//users/view_vouch.php
+
+$lang["Member from"] = "Member from";
+$lang["Please write a few sentences explaining why"] = "Please write a few sentences explaining why";
+$lang["is a great person."] = "is a great person.";
+$lang["Enter your recommendation here and then click the Recommend button."] = "Enter your recommendation here and then click the Recommend button.";
+$lang["Recommend"] = "Recommend";
+$lang["My Listing"] = "My Property";
+
+$lang["There is no List"] = "There is no List";
+$lang["Recommendations"] = "Recommendations";
+$lang["There is no Recommend"] = "There is no Recommend";
+$lang["Sign in using Twitter:"] = "Log in using Twitter:";
+
+
+//News Letter
+
+$lang["Subscribe News Letter:"] = "Subscribe News Letter";
+
+//Hosting
+
+$lang["You have no Previous Trips."] = "You have no previous Trips.";
+$lang["You have no starred Items."] = "You have no starred Items.";
+$lang["Subscribe News Letter:"] = "Subscribe News Letter";
+$lang["View statistics"]="View statistics";
+
+//Dropinn 1.6.9 Users Profile page
+
+$lang['Ex_live'] = 'e.g. Paris, FR / Brooklyn, NY / Chicago, IL';
+
+// Dropinn 1.7.0 Home Page
+
+$lang['Book_Your_Accommodation'] = "Book Your Accommodation";
+$lang['Where_do_you_want_to_go'] = "Where do you want to go?";
+$lang['Guest'] = "Guest";
+$lang['Guests'] = "Guests";
+$lang['Neighborhood Guides'] = "Neighbourhood Guides";
+$lang['Not_sure']= "Not sure where to stay? We've created recent view for cities all around the world.";
+$lang['Travel'] = "Travel";
+$lang['From_apartments'] = "From apartments and rooms to tree houses and boats: stay in unique spaces in 192 countries.";
+$lang['See most booked'] = "See most booked";
+$lang['Host'] = "Host";
+$lang['Renting_out'] = "Renting out your unused space could pay your bills or fund your next vacation.";
+$lang['Learn_more'] = "Learn more about hosting";
+$lang['How It Works'] = "How It Works";
+$lang['From_our'] = "From our worldwide customer support team to our unique review system, we've got your back.";
+$lang['Visit the trust & safety center'] = "Visit the trust & safety centre";
+$lang['Search'] = "Search";
+$lang['Admin Section'] = "Admin Section";
+$lang['new'] = "new";
+$lang['New'] = "New";
+
+// Footer
+
+$lang['Language Settings'] = "Language Settings";
+$lang['Discover'] = "Discover";
+$lang['Company'] = "Company";
+$lang['Join us on'] = "Join us on";
+$lang['About'] = "About";
+$lang['Press'] = "Press";
+$lang['FAQ'] = "FAQ";
+$lang['Policies'] = "Policies";
+$lang['Responsible Hosting'] = "Responsible Hosting";
+$lang['Terms & Privacy'] = "Terms & Privacy";
+$lang['Social Connections'] = "Social Connections";
+$lang['Why Host'] = "Why Host";
+$lang['How it works'] = "How it works";
+
+// Signup &Signin form
+
+$lang['Or'] = "Or";
+$lang['Required fields'] = "Required fields";
+$lang['Fb sign up'] = "FB sign up";
+$lang['Facebook'] = "Facebook";
+$lang['Forgot password'] = "Forgot password?";
+$lang["Find the best places to stay recommended by your friends."] = "Find the best places to stay recommended by your friends.";
+$lang['Forgot password'] = "Forgot password?";
+
+// How it works
+
+$lang['JW Player goes here'] = "JW Player goes here";
+$lang['Learn More_how'] = "Learn More";
+$lang['Find a place'] = "Find a place";
+$lang['Add your Place'] = "Add Your Place";
+
+// Add/Edit your list - Room
+
+$lang["neighborhood Places:"]="neighbourhood Places:";
+$lang['Please Select neighborhood place'] = "Please Select neighbourhood place";
+$lang['Private room'] = "Private room";
+$lang['Shared room'] = "Shared room";
+$lang['Entire home/apt'] = "Entire home/apt";
+$lang['None'] = "None";
+$lang['Airbed'] = "Airbed";
+$lang['Futon'] = "Futon";
+$lang['Pull-out Sofa'] = "Pull-out Sofa";
+$lang['Couch'] = "Couch";
+$lang['Real Bed'] = "Real Bed";
+$lang['Bathroom'] = "Bathroom";
+$lang['Bathrooms'] = "Bathrooms";
+$lang['neighborhood place'] = "neighbourhood place";
+$lang['Hide Street View'] = "Hide Street View";
+$lang['Nearby (within 2 blocks)'] = "Nearby (within 2 blocks)";
+$lang['Closest to My Address'] = "Closest to My Address";
+$lang["Bed type"] = "Bed type";
+$lang['View Listing'] = "View Property";
+$lang['Street View'] = "Street View";
+
+// View Edit Confirm
+
+$lang['Similar Listings'] = "Similar Accommodations";
+$lang['Show More'] = "Show More";
+$lang['First Name'] = "First Name";
+$lang['Last Name'] = "Last Name";
+$lang['Living in'] = "Living in";
+$lang['Working in'] = "Working in";
+$lang['About Me'] = "About Me";
+$lang['Show Less'] = "Show Less";
+$lang['Reviews'] = "Reviews";
+$lang['Per Night'] = "Per Night";
+$lang['Per Week'] = "Per Week";
+$lang['Per Month'] = "Per Month";
+$lang['Includes all fees'] = "Includes all fees";
+$lang['Check_in'] = "Check in";
+$lang['Check_out'] = "Check out";
+$lang['Guests'] = "Guests";
+$lang['Contact Me'] = "Contact Me";
+$lang['Listings'] = "Properties";
+$lang['House_Rules'] = "House Rules";
+$lang["Bed & Breakfast"] = "Bed & Breakfast";
+
+// Contact Me
+
+$lang["Send_Message_to"] = "Send message to";
+$lang["Tell"]= "Tell";
+$lang["what you like about their place, what matters most about your accommodations, or ask them a question"] = "what you like about their place, what matters most about your accommodations, or ask them a question";
+$lang["Sign up to send your message"] = "Sign up to send your message";
+$lang["Send Message"] = "Send Message";
+$lang["Already an member?"] = "Already an member?";
+$lang["Create an account with your mail address"] ="Create an account with your mail address";
+$lang["By clicking Connect with Facebook you confirm that you accept the"] ="By clicking Connect with Facebook you confirm that you accept the";
+$lang["Sorry Accomodataion Not available."] ="Sorry Accomodataion Not available.";
+$lang["Message Sent"] = "Message Sent";
+$lang["Don't stop now-keep contacting other listings."] = "Don't stop now-keep contacting other accommodations.";
+$lang["Contacting several places considerably improves your odds of a booking."]= "Contacting several places considerably improves your odds of a booking.";
+$lang["Return to your search"]= "Return to your search";
+$lang["Contact Me"] = "Contact Me";
+$lang["Vouch for"] = "Vouch for";
+$lang["Regards,"] = "Regards,";
+
+// Here
+
+// Cancellation Policies
+
+$lang['Cancellation Policies'] = "Cancellation Policies";
+$lang['allows_hosts_to_choose'] = "allows hosts to choose among three standardized cancellation policies (Flexible, Moderate, and Strict) that we will enforce to protect both guest and host alike. The Super Strict cancellation policy applies to special circumstances and is by invitation only. The Long Term cancellation policy applies to all reservations of 28 nights or more. Each listing and reservation on our site will clearly state the cancellation policy. Guests may cancel and review any penalties by viewing their travel plans and then clicking 'Cancel' on the appropriate reservation";
+$lang['Flexible'] = "Flexible";
+$lang['Moderate'] = "Moderate";
+$lang['Strict'] = "Strict";
+$lang['Super Strict'] = "Super Strict";
+$lang['Long Term'] = "Long Term";
+$lang['Must_be_made'] = "Must be made a full 24 hours prior to listing's local check in time (or 3:00 PM if not specified) on the day of check in. For example, if check-in is on Friday, cancel by Thursday of that week before check in time";
+$lang['If_guest'] = "If the guest cancels less than 24 hours before check-in, the first night is non-refundable";
+$lang['If_guest_2'] = "If the guest arrives and decides to leave early, the nights not spent 24 hours after the official cancellation are 100% refunded";
+$lang['For_full_refund'] = "For a full refund, cancellation must be made five full days prior to listing's local check in time (or 3:00 PM if not specified) on the day of check in. For example, if check-in is on Friday, cancel by the previous Sunday before check in time";
+$lang['Half_refund'] = "If the guest cancels less than 5 days in advance, the first night is non-refundable but the remaining nights will be 50% refunded";
+$lang['Half_refund_2'] = "If the guest arrives and decides to leave early, the nights not spent 24 hours after the cancellation occurs are 50% refunded";
+$lang['Half_refund_3'] = "For a 50% refund, cancellation must be made seven full days prior to listing's local check in time (or 3:00 PM if not specified) on the day of check in, otherwise no refund. For example, if check-in is on Friday, cancel by Friday of the previous week before check in time";
+$lang['One_third_refund'] = "If the guest cancels less than 7 days in advance, the nights not spent are not refunded";
+$lang['One_third_2'] = "If the guest arrives and decides to leave early, the nights not spent are not refunded";
+$lang['One_thrid_3'] = "For a 50% refund, cancellation must be made 30 full days prior to listing's local check in time (or 3:00 PM if not specified) on the day of check in";
+$lang['No_refund_last'] = "If the guest cancels less than 30 days in advance, the nights not spent are not refunded";
+$lang['If_arrives'] = "If guest arrives and decides to leave early, the nights not spent are not refunded";
+$lang['If the guest books'] = "If the guest books a long term stay and decides to cancel the long term agreement before the start date, the first payment is paid to the host in full";
+$lang['If guest books long term'] = "If the guest books a long term stay and decides to cancel the long term agreement during their stay, the guest is subject to pay host the prorated payment for the following 30 days after the date of the cancellation, or up to the end date if remainder is less than 30 days";
+
+// Search Page
+
+$lang['City, address, or zip code'] = "City, address, or zip code";
+$lang['Sort by'] = "Sort by";
+$lang['Recommended'] = "Recommended";
+$lang['Price: low to high'] = "Price: low to high";
+$lang['Price: high to low'] = "Price: high to low";
+$lang['Newest'] = "Newest";
+$lang['Redo search in map'] = "Redo search in map";
+$lang['Loading'] = "Loading";
+$lang['Check this box to see new search results as you move the map'] = "Check this box to see new search results as you move the map";
+$lang['Yes, please'] = "Yes, please";
+$lang['No, thanks'] = "No, thanks";
+$lang['Price'] = "Price";
+$lang['Amenities'] = "Amenities";
+$lang['Wireless Internet'] = "Wireless Internet";
+$lang['Air Conditioning'] = "Air Conditioning";
+$lang['Kitchen'] = "Kitchen";
+$lang['neighborhood'] = "neighborhood";
+$lang['Keywords'] = "Keywords";
+$lang['Property'] = "Property";
+$lang['Amenities'] = "Amenities";
+$lang['Entire home/apt'] = "Entire home/apt";
+$lang['Private room'] = "Private room";
+$lang['Shared room'] = "Shared room";
+$lang['Min Bedrooms'] = "Min Bedrooms";
+$lang['Min Bathrooms'] = "Min Bathrooms";
+$lang['Min Beds'] = "Min Beds";
+$lang['bed'] = "Bed";
+$lang['Apartment'] = "Apartment";
+$lang['House'] = "House";
+$lang['Bed & Breakfast'] = "Bed &amp; Breakfast";
+$lang['Cabin'] = "Cabin";
+$lang['Villa'] = "Villa";
+$lang['Castle'] = "Castle";
+$lang['Dorm'] = "Dorm";
+$lang['Treehouse'] = "Treehouse";
+$lang['Boat'] = "Boat";
+$lang['Automobile'] = "Automobile";
+$lang['Igloo'] = "Igloo";
+$lang['Lighthouse'] = "Lighthouse";
+$lang['Languages Spoken'] = "Languages Spoken";
+$lang['Cancel'] = "Cancel";
+$lang['Yes'] = "Yes";
+$lang['Save To Wish List'] = "Save To Wish List";
+$lang['Saved to Wish List'] = "Saved to Wish List";
+
+// Hosting page
+
+$lang['COUNTRY'] = "COUNTRY";
+$lang['CITY'] = "CITY";
+$lang['Select City'] = "Select City";
+$lang['Select Country'] = "Select Country";
+$lang['Change To'] = "Change To";
+$lang['Street_Views'] = "Street View";
+$lang['Check_ins'] = "Check in";
+$lang['Check_outs'] = "Check out";
+
+// Dropinn 1.7.1
+
+$lang['Time Zone'] = 'Time Zone';
+$lang['View Public Profile'] = 'View Public Profile';
+
+// Invite Friends
+
+$lang['Send a request to your friends'] = 'Send a request to your friends';
+$lang['Enter your friends email id'] = 'Enter your friends email address';
+$lang['Email'] = 'Email';
+$lang['Add your message'] = 'Add your message';
+$lang['Invite via Email'] = 'Invite via Email';
+$lang['Invite via Facebook'] = 'Invite via Facebook';
+$lang['Invite Friends'] = 'Invite Friends';
+$lang['Looks like none of your friends have signed up for'] = 'Looks like none of your friends have signed up for';
+$lang['yet.'] = 'yet.';
+$lang['Invite them now'] = 'Invite them now';
+
+// Online Profile Verification
+
+$lang['Connect'] = 'Connect';
+$lang['Sign in with Facebook and discover your trusted connections to hosts and guests all over the world.'] = 'Log in with Facebook and discover your trusted connections to hosts and guests all over the world.';
+$lang['Facebook'] = 'Facebook';
+$lang['Please verify your email address by clicking the link in the message we just sent to: username'] = 'Please verify your email address by clicking the link in the message we just sent to: username';
+$lang['Connect your'] = 'Connect your';
+$lang['account to your Google account for simplicity and ease.'] = 'account to your Google account for simplicity and ease.';
+$lang['Google'] = 'Google';
+$lang['Add More Verifications'] = 'Add More Verifications';
+$lang['Disconnect'] = 'Disconnect';
+$lang['You have no verifications yet. You can add more below.'] = 'You have no verifications yet. You can add more below.';
+$lang['You have confirmed your email:'] = 'You have confirmed your email:';
+$lang['A confirmed email is important to allow us to securely communicate with you.'] = 'A confirmed email is important to allow us to securely communicate with you.';
+$lang['verify me'] = 'verify me';
+$lang['Getting your Verified ID is the easiest way to help build trust in the'] = 'Getting your Verified ID is the easiest way to help build trust in the';
+$lang['Verify Your ID'] = 'Verify Your ID';
+$lang["community. We'll verify you by matching information from an online account to an official ID."] = "community. We'll verify you by matching information from an online account to an official ID.";
+$lang['Profile Verification'] = 'Profile Verification';
+$lang['Trust and Verification'] = 'Trust and Verification';
+$lang['Your Current Verifications'] = 'Your Current Verifications';
+
+// Online Profile Verify me verification
+
+$lang['Thanks for choosing to verify your ID!'] = 'Thanks for choosing to verify your ID!';
+$lang['Verifying your ID is an easy way to help build trust in the'] = 'Verifying your ID is an easy way to help build trust in the';
+$lang['community. We believe anonymity erodes trust, so we verify the IDs of our guests and hosts to help ensure the safety of our growing community.'] = 'community. We believe anonymity erodes trust, so we verify the IDs of our guests and hosts to help ensure the safety of our growing community.';
+$lang['By verifying your identification, you give'] = 'By verifying your identification, you give';
+$lang['and our service providers permission to use this information for verification and risk assessment purposes. If you do not consent to our use of your information, please do not verify your identification. The information you provide is governed by our'] = 'and our service providers permission to use this information for verification and risk assessment purposes. If you do not consent to our use of your information, please do not verify your identification. The information you provide is governed by our';
+$lang['You have'] = 'You have';
+$lang['things left to do:'] = 'things left to do:';
+$lang['Verify online profile'] = 'Verify online profile';
+$lang['Verify your Facebook address'] = 'Verify your Facebook address';
+$lang['Verify your Google address'] = 'Verify your Google address';
+$lang['Verify your email address'] = 'Verify your email address';
+$lang['Online Profile'] = 'Online Profile';
+$lang['Verify Online Profile'] = 'Verify Online Profile';
+$lang['Already verified via:'] = 'Already verified via:';
+$lang["You Don't Have Any Verifications."] = "You Don't Have Any Verifications.";
+$lang['You Did All Verifications.'] = 'You Did All Verifications.';
+$lang['Choose the verify via:'] = 'Choose the verify via:';
+$lang['Verification Progress:'] = 'Verification Progress:';
+$lang["Doesn't Specified"] = "Doesn't Specified";
+$lang['Member Since'] = 'Member Since';
+$lang['Verification'] = 'Verification';
+$lang['Verified'] = 'Verified';
+$lang['Privacy Policy'] = 'Privacy Policy';
+$lang['Address'] = 'Address';
+$lang['Verifications'] = 'Verifications';
+$lang['No One Verified'] = 'No One Verified';
+$lang["Verifying your online profile lets us match details to your official identification to help ensure that you're a 'real person' online, rather than a robot or a spammer."] = "Verifying your online profile lets us match details to your official identification to help ensure that you're a 'real person' online, rather than a robot or a spammer.";
+
+//Neighborhoods Page
+
+$lang['Saved neighborhoods'] = 'Saved neighborhoods';
+$lang['Cities'] = 'Cities';
+$lang['Find a Neighborhood in'] = 'Find a Neighbourhood in';
+$lang['What kind of neighborhood are you looking for?'] = 'What kind of neighbourhood are you looking for?';
+$lang['neighborhoods match'] = 'Neighbourhoods match';
+$lang['See all listings'] = 'See all properties';
+$lang['No Quote'] = 'No Quote';
+$lang['All Neighborhoods'] = 'All Neighbourhoods';
+$lang['Get around with'] = 'Get around with';
+$lang['Places to stay'] = 'Places to stay';
+$lang['No Listings Found.'] = 'No Properties Found.';
+$lang['See'] = 'See';
+$lang['listings'] = 'properties';
+$lang['Known For'] = 'Known For';
+$lang['Featured Neighborhoods'] = 'Featured Neighbourhoods';
+$lang['More neighborhoods'] = 'More neighbourhoods';
+$lang['Find a neighborhood'] = 'Find a neighbourhood';
+$lang['All neighborhood guides'] = 'All neighbourhood guides';
+$lang['On the Map'] = 'On the Map';
+$lang['Hosts'] = 'Hosts';
+$lang['Photography'] = 'Photography';
+$lang['works with local photographers to capture the spirit of'] = 'works with local photographers to capture the spirit of';
+$lang['neighborhoods all around the world. The photography on this page includes work by:'] = 'neighbourhoods all around the world. The photography on this page includes work by:';
+$lang['No website'] = 'No website';
+$lang['Popular Places to Stay'] = 'Popular Places to Stay';
+$lang['See places to stay'] = 'See places to stay';
+$lang['Similar to'] = 'Similar to';
+$lang['No Neighborhood Places'] = 'No Neighbourhood Places';
+$lang['View website'] = 'View website';
+$lang['Neighborhoods'] = 'Neighbourhoods';
+$lang['The community says:'] = 'The community says:';
+$lang['No tags'] = 'No tags';
+$lang['Suggest a tag'] = 'Suggest a tag';
+$lang['Save this neighborhood'] = 'Save this neighborhood';
+$lang['See listings in all saved neighborhoods'] = 'See accommodations in all saved neighbourhoods';
+$lang['Love the'] = 'Love the';
+$lang['neighborhood page on'] = 'neighbourhood page on';
+$lang['404 Not Found'] = '404 Not Found';
+$lang['The page that you have requested could not be found.'] = 'The page that you have requested could not be found.';
+$lang['Know this Neighborhood?'] = 'Know this Neighbourhood?';
+$lang['We worked closely with our community to create this guide. Share your thoughts with us so that we can continue bringing it to life. What do you find inspiring about this neighborhood?'] = 'We worked closely with our community to create this guide. Share your thoughts with us so that we can continue bringing it to life. What do you find inspiring about this neighborhood?';
+$lang['Share your local knowledge'] = 'Share your local knowledge';
+$lang['Expired'] = 'Expired';
+
+// List Your Space First Page
+
+$lang['List Your Space'] = 'Register Your Property';
+$lang['lets you make money renting out your place.'] = ', lets generate more bookings for you!';
+$lang['Home Type'] = 'Home Type';
+$lang['Apartment'] = 'Apartment';
+$lang['Your space is an apartment, flat, or unit in a multi-unit building.'] = 'Your space is an apartment, flat, or unit in a multi-unit building.';
+$lang['House'] = 'House';
+$lang['Your space is a single-family house or townhouse.'] = 'Your space is a single-family house or townhouse.';
+$lang['Bed & Break Fast'] = 'Bed & Break Fast';
+$lang['You rent out several rooms within an establishment. Your service includes breakfast.'] = 'You rent out several rooms within an establishment. Your service includes breakfast.';
+$lang['Other'] = 'Other';
+$lang['Loft'] = 'Loft';
+$lang['Cabin'] = 'Cabin';
+$lang['Villa'] = 'Villa';
+$lang['Castle'] = 'Castle';
+$lang['Dorm'] = 'Dorm';
+$lang['Treehouse'] = 'Treehouse';
+$lang['Boat'] = 'Boat';
+$lang['Plane'] = 'Plane';
+$lang['Parking Space'] = 'Parking Space';
+$lang['Car'] = 'Car';
+$lang['Van'] = 'Van';
+$lang['Camper/RV'] = 'Camper/RV';
+$lang['Lgloo'] = 'Lgloo';
+$lang['Lighthouse'] = 'Lighthouse';
+$lang['Yurt'] = 'Yurt';
+$lang['Tipi'] = 'Tipi';
+$lang['Cave'] = 'Cave';
+$lang['Island'] = 'Island';
+$lang['Chalet'] = 'Chalet';
+$lang['Earth House'] = 'Earth House';
+$lang['Hut'] = 'Hut';
+$lang['Train'] = 'Train';
+$lang['Tent'] = 'Tent';
+$lang['guests love the variety of home types available.'] = 'guests love the variety of home types available.';
+$lang['Room Type'] = 'Room Type';
+$lang['Entire Home/Apt'] = 'Entire Home/Apt';
+$lang["You're renting out an entire home."] = "You're renting out an entire home.";
+$lang['Private Room'] = 'Private Room';
+$lang["You're renting out a private room within a home."] = "You're renting out a private room within a home.";
+$lang['Shared Room'] = 'Shared Room';
+$lang["You're renting out a common area, such as an airbed in a living room."] = "You're renting out a common area, such as an airbed in a living room.";
+$lang['Room type is one of the most important criteria for'] = 'Room type is one of the most important criteria for';
+$lang['guests.'] = 'guests.';
+$lang['Accommodates'] = 'Accommodates';
+$lang["Whether you're hosting a lone traveler or a large group, it's important for your guests to feel comfortable."] = "Whether you're hosting a lone traveller or a large group, it's important for your guests to feel comfortable.";
+$lang['City'] = 'City';
+$lang['What a great place to call home!'] = 'What a great place to call home!';
+$lang['CONTINUE'] = 'CONTINUE';
+$lang['CREATING YOUR LISTING...'] = 'CREATING YOUR REGISTRATION...';
+$lang['Trust & Safety'] = 'Trust & Safety';
+$lang["World-class security & communications features mean you never have to accept a booking unless you're 100% comfortable."] = "World-class security & communications features mean you never have to accept a booking unless you're 100% comfortable.";
+$lang['Host Guarantee'] = 'Host Guarantee';
+$lang["Your peace of mind is priceless. So we don't charge for it. Every single booking on DropInn is covered by our Host Guarantee - at no cost to you."] = "Your peace of mind is priceless. So we don't charge for it. Every single booking on DropInn is covered by our Host Guarantee - at no cost to you.";
+$lang['Secure Payments'] = 'Secure Payments';
+$lang['Our fast, flexible payment system puts money in your bank account 24 hours after guests check in.'] = 'Our fast, flexible payment system puts money in your bank account 24 hours after guests check in.';
+
+
+// List Your Space Next Page
+
+$lang["Preview"] = "Preview";
+$lang["BASICS"] = "BASICS";
+$lang["Calendar"] = "Calendar";
+$lang["Pricing"] = "Pricing";
+$lang["DESCRIPTION"] = "DESCRIPTION";
+$lang["Overview"] = "Overview";
+$lang["Photos"] = "Photos";
+$lang["SETTINGS"] = "SETTINGS";
+$lang["Amenities"] = "Amenities";
+$lang["Address"] = "Address";
+$lang["Listing"] = "Property";
+$lang["Complete"] = "Complete";
+$lang["steps"] = "steps";
+$lang["to"] = "to";
+$lang["list your space"] = "register your property";
+$lang["List Space"] = "Register Property";
+$lang["When is your listing available?"] = "When is your property available?";
+$lang["Sometimes"] = "Sometimes";
+$lang["List all dates as available"] = "List all dates as available";
+$lang["Always Available"] = "First Finish Registration!";
+$lang["This is your calendar! After listing your space, return here to update your availability."] = "This is your calendar! After registering your space, return here to update your availability.";
+$lang["CHOOSE AGAIN"] = "CHOOSE AGAIN";
+$lang["One Time Available"] = "One Time Available";
+$lang["Select the dates your listing is available."] = "Select the dates your property is available.";
+$lang["After listing your space, return here to set custom prices and availability."] = "After registering your property, return here to set custom prices and availability.";
+$lang["CHOOSE AGAIN"] = "CHOOSE AGAIN";
+$lang["Some times Available"] = "Some times Available";
+$lang["This is your calendar! After listing your space, return here to update your availability."] = "This is your calendar! After registering your property, return here to update your availability.";
+$lang["CHOOSE AGAIN"] = "CHOOSE AGAIN";
+$lang["saving..."] = "saving...";
+$lang["Base Price"] = "Base Price";
+$lang["The base nightly price and default currency for your listing."] = "The base nightly price and default currency for your property.";
+$lang["Per night"] = "Per night";
+$lang["Your price is too low. The minimum is 10."] = "Your price is too low. The minimum is 10.";
+$lang["Your price is too long. The maximum is 4 digits."] = "Your price is too long. The maximum is 4 digits.";
+$lang["suggested"] = "suggested";
+$lang["Currency"] = "Currency";
+$lang["Want to offer a discount for longer stays?"] = "Want to offer a discount for longer stays?";
+$lang["You can also set weekly and monthly prices."] = "You can also set weekly and monthly prices.";
+$lang["Long-Term Prices"] = "Long-Term Prices";
+$lang["Offer discounted prices for stays one week or longer."] = "Offer discounted prices for stays one week or longer.";
+$lang["Per Week"] = "Per Week";
+$lang["If set, this price applies to any reservation 7 nights or longer."] = "If set, this price applies to any reservation 7 nights or longer.";
+$lang["Per Month"] = "Per Month";
+$lang["If set, this price applies to any reservation 28 nights or longer."] = "If set, this price applies to any reservation 28 nights or longer.";
+$lang["Setting a price"] = "Setting a price";
+$lang["For new listings with no reviews, it's important to set a competitive price. Once you get your first booking and review, you can raise your price!"] = "For new listings with no reviews, it's important to set a competitive price. Once you get your first booking and review, you can raise your price!";
+$lang["The suggested nightly price tip is based on:"] = "The suggested nightly price tip is based on:";
+$lang["1.Seasonal travel demand in your area."] = "1.Seasonal travel demand in your area.";
+$lang["2.The median nightly price of recent DropInn bookings in your city."] = "2.The median nightly price of recent Bookerator bookings in your city.";
+$lang["3.The details of your listing."] = "3.The details of your property.";
+$lang["Most hosts offer a discount for longer stays of a week or more."] = "Most hosts offer a discount for longer stays of a week or more.";
+$lang["Offer a discount"] = "Offer a discount";
+$lang["A title and summary displayed on your public listing page."] = "A title and summary displayed on your public property page.";
+$lang["Overview"] = "Overview";
+$lang["Title"] = "Title";
+$lang["CHARACTERS LEFT"] = "CHARACTERS LEFT";
+$lang["Summary"] = "Summary";
+$lang["WORDS LEFT"] = "WORDS LEFT";
+$lang["A great title"] = "A great title";
+$lang["A great title is unique and descriptive!  It should highlight the main attractions of your space."] = "A great title is unique and descriptive! It should highlight the main attractions of your space.";
+$lang["Example:"] = "Example:";
+$lang["Charming Victorian in the Mission."] = "Charming Victorian in the Mission.";
+$lang["Cozy 2BD with Parking Included."] = "Cosy 2BD with Parking Included.";
+$lang["Amazing View from a Modern Loft"] = "Amazing View from a Modern Loft";
+$lang["A great summary"] = "A great summary";
+$lang["A great summary is rich and exciting! It should cover the major features of your space and neighborhood in 250 characters or less."] = "A great summary is rich and exciting! It should cover the major features of your space and neighbourhood in 250 characters or less.";
+$lang["Example:"] = "Example:";
+$lang["Our cool and comfortable one bedroom apartment with exposed brick has a true city feeling! It comfortably fits two and is centrally located on a quiet street, just two blocks from Washington Park. Enjoy a gourmet kitchen, roof access, and easy access to all major subway lines!"] = "Our cool and comfortable one bedroom apartment with exposed brick has a true city feeling! It comfortably fits two and is centrally located on a quiet street, just two blocks from Washington Park. Enjoy a gourmet kitchen, roof access, and easy access to all major subway lines!";
+$lang["Most Common"] = "Main Amenities";
+$lang["Common amenities at most DropInn listing"] = "Main amenities";
+$lang["Listing Info"] = "Property Info";
+$lang["Basic information about your listing."] = "Basic information about your property.";
+$lang["Rooms and Beds"] = "Rooms and Beds";
+$lang["The number of rooms and beds guests can access."] = "The number of rooms and beds guests can access.";
+$lang["Beds"] = "Beds";
+$lang["Select..."] = "Select...";
+$lang["Bathrooms"] = "Bathrooms";
+$lang["Add a photo or two!"] = "Add a photo or two!";
+$lang["Or three, or more! Guests love photos that highlight the features of your space."] = "Or three, or more! Guests love photos that highlight the features of your space.";
+$lang["No File Choosen"] = "No File Choosen";
+$lang["Upload"] = "Upload";
+$lang["Photos"] = "Photos";
+$lang["Your first photo appears in search results!"] = "Your first photo appears in search results!";
+$lang["Address"] = "Location";
+$lang["Your exact address is private and only shared with guests after a reservation is confirmed."] = "Your exact address is private and only shared with guests after a reservation is confirmed.";
+$lang["This Listing has no address."] = "This Property has no address.";
+$lang["edit address"] = "edit address";
+$lang["Your Address is Private"] = "Your Address is Private";
+$lang["It will only be shared with guests after a reservation is confirmed."] = "It will only be shared with guests after a reservation is confirmed.";
+$lang["Your Address is Private"] = "Your Address is Private";
+$lang["This is how your location appears on your listing page."] = "This is how your location appears on your property page.";
+$lang["View on listing page"] = "View on property page";
+$lang["Enter Address"] = "Enter Address";
+$lang["What is your listing's address?"] = "What is your property's address?";
+$lang["Country"] = "Country";
+$lang["Street Address"] = "Street Address";
+$lang["Apt, Suite, Bldg. (optional)"] = "Apt, Suite, Bldg. (optional)";
+$lang["State"] = "State";
+$lang["ZIP Code"] = "ZIP Code";
+$lang["Cancel"] = "Cancel";
+$lang["Next"] = "Next";
+$lang["Choose the option that best fits your listing's availability. Don't worry, you can change this any time."] = "Choose the option that best fits your property's availability. Don't worry, you can change this any time.";
+$lang["Location Not Found"] = "Location Not Found";
+$lang["Manually pin this listing's location on a map."] = "Manually pin this property's location on a map.";
+$lang["We couldn't automatically find this listing's location, but if the address below is correct you can manually pin it's location on the map instead."] = "We couldn't automatically find this property's location, but if the address below is correct you can manually pin its location on the map instead.";
+$lang["Edit Address"] = "Edit Address";
+$lang["Pin on Map"] = "Pin on Map";
+$lang["Pin Location"] = "Pin Location";
+$lang["Move the map to pin your listing's exact location."] = "Move the map to pin your property's exact location.";
+$lang["edit address"] = "edit address";
+$lang["Finish"] = "Finish";
+$lang["About"] = "About";
+$lang["Help"] = "Help";
+$lang["Press"] = "Press";
+$lang["Responsible Hosting"] = "Responsible Hosting";
+$lang["Policies"] = "Policies";
+$lang["Terms & Privacy"] = "Terms & Privacy";
+$lang["We've created your listing."] = "We've created your registration.";
+$lang["more steps to <br /> list your space"] = "more steps to <br /> register your property";
+$lang["Finish my listing"] = "Finish my registration";
+$lang["Your space is listed!"] = "Your space is listed!";
+$lang["Close"] = "Close";
+$lang["See your listing"] = "See your property";
+$lang["Write a title"] = "Write a title";
+$lang["Write a summary in 50 words or less"] = "Write a summary in 50 words or less";
+$lang["What are the highlights of this photo?"] = "Add a description for the bookers";
+$lang["Add address"] = "Add address";
+$lang['Add Photos'] = "Add Photos";
+$lang['You are logged out successfully.'] = 'You are logged out successfully.';
+$lang["Your New Email Address Already Used."] = "Your New Email Address Already Used.";
+$lang["Information updated successfully."] = "Information updated successfully.";
+$lang["Give a valid phone number"] = "Give a valid phone number";
+$lang["Sorry! Destination folder is not writable."] = "Sorry! Destination folder is not writable.";
+$lang["Your profile photo updated successfully."] = "Your profile photo updated successfully.";
+$lang["Please browse your profile photo."] = "Please browse your profile photo.";
+$lang["Mail sent successfully."] = "Mail sent successfully.";
+$lang["Sorry! You cannot recommend yourself."] = "Sorry! You cannot recommend yourself.";
+$lang["Your recommend added successfully."] = "Your recommendation added successfully.";
+$lang["Logged in successfully."] = "Logged in successfully.";
+$lang["Sorry Your Referral code is wrong."] = "Sorry Your Referral code is wrong.";
+$lang["Sorry username is not available"] = "Sorry username is not available";
+$lang["Sorry this email has already been registered"] = "Sorry this email has already been registered";
+$lang["Logged in successfully."] = "Logged in successfully.";
+$lang["Either the username or password is wrong. Please try again!"] = "Either the username or password is wrong. Please try again!";
+$lang["You are already logged in. Logout to login again!"] = "You are already logged in. Log out to log in again!";
+$lang["You are Banned by admin."] = "You are Banned by admin.";
+$lang["You are logged out successfully."] = "You are logged out successfully.";
+$lang["Your password has successfully been changed."] = "Your password has successfully been changed.";
+$lang["Your Old Password Is Wrong"] = "Your Old Password Is Wrong";
+$lang["Please Enter the Valid Email"] = "Please Enter the Valid Email";
+$lang["This email address doesn't exist in our database"] = "This email address doesn't exist in our database";
+$lang["An email has been sent to your email with instructions with how to activate your new password."] = "An email has been sent to your email with instructions with how to activate your new password.";
+$lang["This is invalid email address"] = "This is invalid email address";
+$lang["You have successfully reset you password"] = "You have successfully reset you password";
+$lang["Reset failed. Your username and key are incorrect. Please check your email again and follow the instructions."] = "Reset failed. Your username and key are incorrect. Please check your email again and follow the instructions.";
+$lang["Login"] = "Login";
+$lang["User has canceled authentication !."] = "User has cancelled authentication!.";
+$lang["Logged in successfully."] = "Logged in successfully.";
+$lang["Your Username or Email Already Registered."] = "Your Username or Email Already Registered.";
+$lang["Sorry! Connection Error."] = "Sorry! Connection Error.";
+$lang["User has canceled authentication !."] = "User has cancelled authentication!.";
+$lang["Google Account Successfully Verified."] = "Google Account Successfully Verified.";
+$lang["Google Account Not Verified."] = "Google Account Not Verified.";
+$lang["Email Verification Link Sent To Your Email Address."] = "Email Verification Link Sent To Your Email Address.";
+$lang["Your Email Address Successfully Verified."] = "Your Email Address Successfully Verified.";
+$lang["Your Email Address Not Verified."] = "Your Email Address Not Verified.";
+$lang["User has canceled authentication !."] = "User has cancelled authentication!.";
+$lang["Your Google Account Successfully Verified."] = "Your Google Account Successfully Verified.";
+$lang["Your Google Account Not Verified."] = "Your Google Account Not Verified.";
+$lang["Email Verification Link Sent To Your Email Address."] = "Email Verification Link Sent To Your Email Address.";
+$lang["Settings updated successfully"] = "Settings updated successfully";
+$lang["Your payout preference set successfully."] = "Your pay-out preference set successfully.";
+$lang["Your payout preference this data already inserted."] = "Your pay-out preference this data already inserted.";
+$lang["Your default payout updated successfully."] = "Your default pay-out updated successfully.";
+$lang["Sorry this email has already been registered"] = "Sorry this email has already been registered";
+$lang["Invitation sent successfully."] = "Invitation sent successfully.";
+$lang["This List Hidden by Host."] = "This List Hidden by Host.";
+$lang["Host can't book their list."] = "Host can't book their list.";
+$lang["Registered successfully."] = "Registered successfully.";
+$lang["Logged in successfully."] = "Logged in successfully.";
+$lang["Sorry! Access denied."] = "Sorry! Access denied.";
+$lang["Sorry! Your coupon is invalid"] = "Sorry! Your coupon is invalid";
+$lang["Sorry! There is equal money or more money in your coupon to book this list."] = "Sorry! There is equal money or more money in your coupon to book this list.";
+$lang["Sorry! Your coupon does not match."] = "Sorry! Your coupon does not match.";
+$lang["Sorry! Your payment should be greater than 0."] = "Sorry! Your payment should be greater than 0.";
+$lang["You must agree to the Cancellation Policy and House Rules!"] = "You must agree to the Cancellation Policy and House Rules!";
+$lang["Thanks for being part of our community! We will contact you ASAP."] = "Thanks for being part of our community! We will contact you ASAP.";
+$lang["Thank you so much for contributing to this page! We do our best to build these community pages out from contributions like yours."] = "Thank you so much for contributing to this page! We do our best to build these community pages out from contributions like yours.";
+$lang["This tag already used. Please use other words."] = "This tag already used. Please use other words.";
+$lang["Thanks for your tag suggestion! You might see it on the site soon."] = "Thanks for your tag suggestion! You might see it on the site soon.";
+$lang["Rooms added successfully."] = "Rooms added successfully.";
+$lang["You must agree to the Cancellation Policy and House Rules!"] = "You must agree to the Cancellation Policy and House Rules!";
+$lang["You are not able to pay a amount for this list. Please contact the Admin."] = "You are not able to pay a amount for this list. Please contact the Admin.";
+$lang["You are successfully cancelled the trip."] = "You are successfully cancelled the trip.";
+$lang["Mail sent successfully."] = "Mail sent successfully.";
+$lang["You are enter the already user email address."] = "You entered an already used email address.";
+$lang["You must logged in."] = "You must logged in.";
+$lang["Sorry, The selected listing is in process or reseSeptembervered by someone"] = "Sorry, The selected property is in process or reseverved by someone";
+$lang["Rooms deleted successfully."] = "Property deleted successfully.";
+$lang["Price updated successfully."] = "Price updated successfully.";
+$lang["Status change successfully."] = "Status change successfully.";
+$lang["You are successfully checked in. Enjoy the trip."] = "You are successfully checked in. Enjoy the trip.";
+$lang["Your List was deleted."] = "Your List was deleted.";
+$lang["You are successfully checked out."] = "You are successfully checked out.";
+$lang["You are successfully cancelled the trip."] = "You are successfully cancelled the trip.";
+$lang["Message deleted successfully."] = "Message deleted successfully.";
+$lang["Message unstarred successfully."]= "Message unstarred successfully.";
+$lang["Message starred successfully."]= "Message starred successfully.";
+$lang["Your Facebook Account Not Verified"]="Your Facebook Account Not Verified";
+$lang["Your Facebook Account Successfully Verified"]="Your Facebook Account Successfully Verified";
+$lang["Your Facebook Account Successfully Disconnected"]="Your Facebook Account Successfully Disconnected";
+$lang["Your Google Account Not Verified"]="Your Google Account Not Verified";
+$lang["Your Google Account Successfully Verified"]="Your Google Account Successfully Verified";
+$lang["Your Google Account Successfully Disconnected"]="Your Google Account Successfully Disconnected";
+$lang["Your Email Address Not Verified"]="Your Email Address Not Verified";
+$lang["Your Email Address Successfully Verified"]="Your Email Address Successfully Verified";
+$lang["Your Email Address Successfully Disconnected"]="Your Email Address Successfully Disconnected";
+$lang["Your review saved successfully."]="Your review saved successfully.";
+$lang["Your payment completed successfully."]="Your payment completed successfully.";
+$lang['Click here to return to the home page']='Click here to return to the home page';
+$lang["Left double click for zoom in and Right double click for zoom out."]="Left double click for zoom in and Right double click for zoom out.";
+
+// Help
+
+$lang['Help Center'] = 'Help Centre';
+$lang['Home'] = 'Home';
+$lang['Guide'] = 'Guide';
+$lang['Questions'] = 'Questions';
+$lang['No Results Found'] = 'No Results Found';
+$lang['Search the help center'] = 'Search the help centre';
+$lang[''] = '';
+$lang[''] = '';
+$lang[''] = '';
+$lang[''] = '';
+$lang[''] = '';
+$lang[''] = '';
+$lang['Please tell us how to pay you.']='Please tell us how to pay you.';
+$lang['Please confirm your email address by clicking on the link we just emailed you. If you cannot find the email, you can']='Please confirm your email address by clicking on the link we just emailed you. If you cannot find the email, you can';
+$lang['request a new confirmation email']='request a new confirmation email';
+$lang['change your email address.']='change your email address.';
+$lang['View Profile']='View Profile';
+$lang['Reservations']='Reservations';
+$lang['Archived']='Archived';
+$lang['List Deletion']='List Deletion';
+$lang['List Creation']='List Creation';
+$lang['Archive']='Archive';
+$lang['Manage Listing & Calendar']='Manage Property & Calendar';
+$lang['steps to list']=' steps to activate ';
+$lang['Add more']='Add more';
+$lang['No phone number entered']='No phone number entered';
+$lang['Add a Phone number']='Add a Phone number';
+$lang['About You']='About You';
+$lang['By You']='By You';
+$lang['Admin Panel']='Admin Panel';
+$lang['Trust and Verification']='Trust and Verification';
+
+//language datepicker
+$lang['December']='December';
+$lang['January']='January';
+$lang['ttt']='today';
+
+//view_list_your_space_next.php
+
+$lang['Suitability']='Suitability';
+$lang['Suitability amenities at most Bookerator listing']='Indicate for whom the accommodation is suitable';
+$lang['Kitchen And Dining']='Kitchen & Dining';
+$lang['Kitchen And Dining amenities at most Bookerator listing']='Kitchen And Dining';
+$lang['Amenities at most Bookerator listing']='accommodations Amenities';
+$lang['Entertainment']='Entertainment';
+$lang['Entertainment amenities at most Bookerator listing']='Entertainment offered at the Accommodation';
+$lang['Pool/Spa']='Pool/Spa';
+$lang['Pool/Spa amenities at most Bookerator listing']='Pool/Spa at the Accommodation';
+$lang['Accommodations']='Services';
+$lang['Accommodations amenities at most Bookerator listing']='Additional Services Offered';
+$lang['Themes']='Themes';
+$lang['Themes amenities at most Bookerator listing']='Accommodation and Surroundings';
+$lang['If you select "Yes", your property will be booked instantly when a buyer click Book Button.']='If you select "Yes", your property will be booked instantly when a buyer clicks the Book button on a booking site.';
+$lang['If you select "No", you will receive request for confirmation and after your confirmation the property can be booked.']='If you select "No", you will receive request for confirmation and after your confirmation the property can be booked.';
+$lang['Name Accommodation']='Name Accommodation';
+$lang['Car Necessary?']='Car Necessary?';
+$lang['Nearby Places']='Nearby Places';
+$lang['Additional Info']='Additional Info';
+
+$lang['At least 6 images must be provided to pass the minimum content check for publication and Maximum 24 Images.']='At least 6 images must be provided to pass the minimum content check for publication and Maximum 24 Images';
+
+$lang['Bedroom type']='Bedroom type';
+$lang['The number of bathrooms guests can access.']='The number of bathrooms guests can access.';
+$lang['Bathroom type']='Bathroom type';
+
+$lang['Channel Manager']='Channel Manager';
+$lang['Properties']='Properties';
+$lang['Register Your Property']='Register Your Property';
+$lang['Manage Properties']='Manage Properties';
+$lang['Own Website']='Own Website';
+$lang['Your Subscriptions']='Your Subscriptions';
+$lang['Contacts']='Contacts';
+$lang['Inbox']='Inbox';
+$lang['Membership']='Membership';
+$lang['Expires On :']='Expires On :';
+$lang['Change Membership']='Change Membership';
+$lang['Your Reservations']='Your Reservations';
+$lang['Gender']='Gender';
+$lang['Email']='Email';
+$lang['Phone Number']='Phone Number';
+$lang['Bank account number']='Bank account number';
+$lang['Choose a country']='Choose a country';
+$lang['Choose']='Choose';
+$lang['Add a phone number']='Add a phone number';
+$lang['Owner Type']='Owner Type';
+$lang['Private Home Owner']='Private Home Owner';
+$lang['Property Manager']='Property Manager';
+$lang['Agency']='Agency';
+$lang['Languages']='Languages';
+$lang['Add More']='Add More';
+$lang['Add languages you speak']='Add languages you speak';
+$lang['Spoken Languages']='Spoken Languages';
+$lang['What languages can you speak fluently? We have many international travelers who appreciate hosts who can speak their language.']='What languages can you speak fluently? We have many international travellers who appreciate hosts who can speak their language.';
+$lang['CLOSE']='CLOSE';
+$lang['Billing Address']='Billing Address';
+$lang['Address Line 1']='Address Line 1';
+$lang['Address Line 2']='Address Line 2';
+$lang['State/ Province/ County/ Region']='State/ Province/ County/ Region';
+$lang['ZIP/ Postal Code']='ZIP/ Postal Code';
+$lang['Business Information']='Business Information';
+$lang['Company Name']='Company Name';
+$lang['Registration Number']='Registration Number';
+$lang['Trade register']='Trade register';
+$lang['Phone Number 1']='Phone Number 1';
+$lang['Phone Number 2']='Phone Number 2';
+$lang['Website']='Website';
+$lang['VAT Information']='VAT Information';
+$lang['For European Union users or users in other countries for which VAT applies, VAT will be assessed on our Service Fees.']='For European Union users or users in other countries for which VAT applies, VAT will be assessed on our Service Fees.';
+$lang['If you live in a country where we need to charge VAT, you will not be charged VAT if you enter a valid VAT ID Number']='If you live in a country where we need to charge VAT, you will not be charged VAT if you enter a valid VAT ID Number';
+$lang['Please Enter An Email']='Please Enter An Email';
+$lang['VAT No.']='VAT No.';
+$lang['Old Password']='Old Password';
+$lang['New Password']='New Password';
+$lang['Confirm New Password']='Confirm New Password';
+$lang['Security Question']='Security Question';
+$lang["What's your pet name"]="What's your pet name";
+$lang["What's your born place"]="What's your born place";
+$lang["What's your interest in"]="What's your interest in";
+$lang['Security Answer']='Security Answer';
+$lang['Action']='Action';
+$lang['Subscribed on']='Subscribed on';
+$lang['Total Amount Paid']='Total Amount Paid';
+$lang['Plan']='Plan';
+$lang['Cancelled']='Cancelled';
+$lang['Expired']='Expired';
+$lang['Change']='Change';
+$lang['No Transactions']='No Transactions';
+$lang['Completed Transaction']='Completed Transaction';
+$lang['Future Transaction']='Future Transaction';
+$lang['All payout methods']='All pay-out methods';
+$lang['All listings']='All listings';
+$lang['All']='All';
+$lang['All months']='All months';
+
+$lang["No record found"]="No record found";
+$lang["Email Id"]="Email";
+$lang["Mobile Number"]="Mobile Number";
+$lang["Add Contact"]="Add Contact";
+$lang["Contact List"]="Contact List";
+$lang["Add languages contact person can speak"]="Add languages contact person can speak";
+$lang["What languages contact person can speak fluently?"]="What languages contact person can speak fluently?";
+$lang["Is Active"]="Is Active";
+$lang["No payout selected."]="No pay-out selected.";
+$lang["Login History"]="Login History";
+$lang["Browser/Device"]="Browser/Device";
+$lang["Recent Activity"]="Recent Activity";
+$lang["Location is approximated"]="Location is approximated";
+$lang["If you see something unfamiliar"]="If you see something unfamiliar";
+$lang["change your password"]="change your password";
+$lang["Cancel My Account"]="Cancel My Account";
+$lang["Tell us why you're leaving"]="Tell us why you're leaving";
+$lang["I have safety concerns"]="I have safety concerns";
+$lang["I have privacy concerns"]="I have privacy concerns";
+$lang["I don't find it useful"]="I don't find it useful";
+$lang["I don't understand how to use it"]="I don't understand how to use it";
+$lang["It's temporary. I'll be back"]="It's temporary. I'll be back";
+$lang["Care to tell us more?"]="Care to tell us more?";
+$lang["Can we contact you for more details?"]="Can we contact you for more details?";
+$lang["What's going to happen"]="What's going to happen";
+$lang["Your profile and any listings will disappear."]="Your profile and any listings will disappear.";
+$lang["We'll miss you terribly."]="We'll miss you terribly.";
+$lang["Cancel my account"]="Cancel my account";
+$lang["Don't cancel account"]="Don't cancel account";
+$lang["Cancel account"]="Cancel account";
+$lang["Subscription Plans"]="Subscription Plans";
+$lang["Please get subscribe plan to use features of BOOKERATER"]="Please choose a subscribtion plan to start using Bookerator. ";
+$lang["CALENDAR SYNC"]="CALENDAR SYNC";
+$lang["CONTENT SYNC"]="CONTENT SYNC";
+$lang["PRICE SYNC"]="PRICE SYNC";
+$lang["RESERVATION SYSTEM"]="RESERVATION SYSTEM";
+$lang["ACCEPT BOOKING REQUESTS"]="ACCEPT BOOKING REQUESTS";
+$lang["MULTILINGUAL"]="MULTILINGUAL";
+$lang["EXTENSIVE SUPPORT"]="EXTENSIVE SUPPORT";
+$lang["BOOKING SYSTEM"]="BOOKING SYSTEM";
+$lang["MULTI-PROPERTY WEBSITE"]="MULTI-PROPERTY WEBSITE";
+$lang["PROPERTY SEARCH"]="PROPERTY SEARCH";
+$lang["SUBSCRIBE"]="SUBSCRIBE";
+$lang["per month (pay yearly)"]="per month (pay yearly)";
+$lang["per month"]="per month";
+$lang["For property managers & agencies who want to generate more bookings with less work and have their own website"]="For property managers & agencies who want to generate more bookings with less work and have their own website";
+$lang["euro per month(pay yearly)"]="euro per month(pay yearly)";
+$lang["For landlords who want more revenue, more convenience and still remain in control. With unlimited requests and an optional own website"]="For landlords who want more revenue, more convenience and still remain in control. With unlimited requests and an optional own website";
+$lang["All prices are excluding VAT."]="All prices are excluding VAT.";
+$lang["Subscription Coupon"]="Subscription Coupon";
+$lang["Enter Coupon Code"]="Enter Coupon Code";
+$lang["Invalid coupon"]="Invalid coupon";
+$lang["Please Enter Coupon Code."]="Please Enter Coupon Code.";
+$lang["Skip"]="Skip";
+$lang["Payment Options"]="Payment Options";
+$lang["This payment transacts in"]="This payment transacts in";
+$lang["Subscription plan price is"]="Subscription plan price is";
+$lang["Vat amount is"]="Vat amount is";
+$lang["Coupon discount is"]="Coupon discount is";
+$lang["Your total amount is"]="Your total amount is";
+$lang["Monthly."]="Monthly.";
+$lang["After clicking 'Pay with' you will be redirected to PayPal to complete payment."]="After clicking 'Pay with' you will be redirected to PayPal to complete payment.";
+$lang["You must complete the process or the transaction will not occur."]="You must complete the process or the transaction will not occur.";
+$lang["Yearly"]="Yearly";
+$lang["Your payment completed successfully."]="Your payment completed successfully.";
+$lang["Click here to return to the dashbord"]="Click here to return to the dashbord";
+$lang["Payment Canceled!"]="Payment Canceled!";
+$lang["Payment Success!"]="Payment Success!";
+$lang["The payment was canceled"]="The payment was canceled";
+$lang["Click here to return to the dashboard"]="Click here to return to the dashboard";
+$lang["Manage and control all bookings and booking sites for one screen. Keep your calendar up-to-date.ing system."]="Manage and control all bookings and booking sites for one screen. Keep your calendar up-to-date.ing system.";
+$lang["Just one dashboard"]="Just one dashboard";
+$lang["Booterator services are for free. There is no beter deal!"]="Bookerator services are for free. There is no better deal!";
+$lang["It's for free"]="It's for free";
+$lang["With Bookerator all it takes is one click to get unlimited exposure!"]="With Bookerator all it takes is one click to get unlimited exposure!";
+$lang["REGISTER FOR FREE"]="REGISTER FOR FREE";
+$lang["How to settle payments with selected booking sites"]="How to settle payments with selected booking sites";
+$lang["Major global booking websites generally offer two models of enrollment: pay-per-booking and subscription. Bookerator cares about making </br>the booking process as effective and easy as possible, so we have made a small guide showing you how to complete this process as quick as you can"]="Major global booking websites generally offer two models of enrollment: pay-per-booking and subscription. Bookerator cares about making </br>the booking process as effective and easy as possible, so we have made a small guide showing you how to complete this process as quick as you can";
+$lang["services"]="services";
+
+$lang["And many more..."]="And many more...";
+$lang["Partners we're proud to work with"]="Partners we're proud to work with";
+$lang["We don't have an own booking site nor are we one. We merely distribute your holiday rentals to the booking sites of your choice and make sure you receive all bookings made on these sites"]="We don't have an own booking site nor are we one. We merely distribute your holiday rentals to the booking sites of your choice and make sure you receive all bookings made on these sites";
+$lang["How is Bookerator different from regular booking sites?"]="How is Bookerator different from regular booking sites?";
+$lang["Of course, you can use our iCal solution to sync your calendar"]="Of course, you can use our iCal solution to sync your calendar";
+$lang["I already have a website. Can I still use Bookerator?"]="I already have a website. Can I still use Bookerator?";
+$lang["With a premium subscription you can respond to an unlimited number of booking requests. And you can have your own professional booking site"]="With a premium subscription you can respond to an unlimited number of booking requests. And you can have your own professional booking site";
+$lang["Why should I upgrade to a Premium account?"]="Why should I upgrade to a Premium account?";
+$lang["If you don't respond within a 24 hour time frame we will consider that the booking is denied"]="If you don't respond within a 24 hour time frame we will consider that the booking is denied";
+$lang["What happens if I don't respond to a booking request?"]="What happens if I don't respond to a booking request?";
+$lang["We will place your rental advert on dozens of bookings sites which will increase your exposure. As you will get many more booking requests, you can charge higher rates and still be fully booked"]="We will place your rental advert on dozens of bookings sites which will increase your exposure. As you will get many more booking requests, you can charge higher rates and still be fully booked";
+$lang["Why should I use Bookerator?"]="Why should I use Bookerator?";
+$lang["You are able to see all of your booking requests in your dashboard. If you decide that you want to respond to additional requests, you can always expand your business with a premium subscription with additional features!"]="You are able to see all of your booking requests in your dashboard. If you decide that you want to respond to additional requests, you can always expand your business with a premium subscription with additional features!";
+$lang["What happens if I receive more than 3 booking requests in one month?"]="What happens if I receive more than 3 booking requests in one month?";
+$lang["Instead of you being forced to make individual bookings and lose large amounts of your time, Bookerator bypasses that process by enabling you to place your accommodation on all major booking websites within a click of your mouse! This will increase your conversions, exposure and bookings tremendously while saving you time, and ultimately, money."]="Instead of you being forced to make individual bookings and lose large amounts of your time, Bookerator bypasses that process by enabling you to place your accommodation on all major booking websites within a click of your mouse! This will increase your conversions, exposure and bookings tremendously while saving you time, and ultimately, money.";
+$lang["What's the difference between Bookerator and 'normal' booking sites?"]="What's the difference between Bookerator and 'normal' booking sites?";
+$lang["All of the features! The only limit is that you can answer to only 3 booking requests per month - which is usually more than enough for starters. If you need to expand the scope of your services, you can always."]= "All of the features! The only limit is that you can answer to only 3 booking requests per month - which is usually more than enough for starters. If you need to expand the scope of your services, you can always.";
+$lang["All of the features! The only limit is that you can answer to only 3 booking requests per month - which is usually more than enough for starters. If you need to expand the scope of your services, you can always get one of our premium packages"]="All of the features! The only limit is that you can answer to only 3 booking requests per month - which is usually more than enough for starters. If you need to expand the scope of your services, you can always get one of our premium packages";
+
+$lang["Which features do I have with a basic subscription?"]="Which features do I have with a basic subscription?";
+$lang["FAQs – Features"]="FAQ – Features";
+$lang["Bookerator supports multiple languages for selected booking sites and for your own website"]="Bookerator supports multiple languages for selected booking sites and for your own website";
+$lang["Add your accommodation details and photos"]="Add your accommodation details and photos";
+$lang["Multilingual"]="Multilingual";
+$lang["If you manage multiple properties they can be listed and managed in one place. On your own multiple-property website all your properties are listed in one overview for easy visiting. (premium only)"]="If you manage multiple properties they can be listed and managed in one place. On your own multiple-property website all your properties are listed in one overview for easy visiting. (premium only)";
+$lang["MULTI-PROPERTY LISTINGS"]="MULTI-PROPERTY LISTINGS";
+$lang["No need to place rental property on numerous websites yourself – Bookerator does that for you. Just register with us and we take care of the rest. Changes in texts, photos, pricing and of course calendar changes… we distribute and synchronize everything while you never have to leave the Bookerator dashboard"]="No need to place rental property on numerous websites yourself – Bookerator does that for you. Just register with us and we take care of the rest. Changes in texts, photos, pricing and of course calendar changes we distribute and synchronize everything while you never have to leave the Bookerator dashboard";
+$lang["ONE REGISTRATION ONLY!"]="ONE REGISTRATION ONLY!";
+$lang["We will provide you with a professional website for your property. You can choose from numerous templates, mobile and SEO optimized. Visitors can book your accommodation directly through your own website and you will avoid paying any commissions. (premium only)"]="We will provide you with a professional website for your property. You can choose from numerous templates, mobile and SEO optimized. Visitors can book your accommodation directly through your own website and you will avoid paying any commissions. (premium only)";
+$lang["PROFESSIONAL WEBSITE"]="PROFESSIONAL WEBSITE";
+$lang["Changes in your availability calendar are synchronized real-time with all your booking sites: no hassle and no more double bookings. Even changes in property details and pricing are synchronized automatically. Register your rental in just one place and we take care of the rest"]="Changes in your availability calendar are synchronized real-time with all your booking sites: no hassle and no more double bookings. Even changes in property details and pricing are synchronized automatically. Register your rental in just one place and we take care of the rest";
+$lang["CALENDAR SYNCHRONIZATION"]="CALENDAR SYNCHRONIZATION";
+$lang["In the Bookerator Channel Manager you select the booking sites where your holiday rental will appear. Currently we are connected to more than 100 booking sites and are adding more every month"]="In the Bookerator Channel Manager you select the booking sites where your holiday rental will appear. Currently we are connected to more than 100 booking sites and are adding more every month";
+$lang["CHANNEL MANAGER"]="CHANNEL MANAGER";
+$lang["Our Features"]="Our Features";
+$lang["Our premium subscription will provide you with an unlimited use of all our services and premium features. We are proud to deliver the highest quality services at the most competitive prices online"]="Our premium subscription will provide you with an unlimited use of all our services and premium features. We are proud to deliver the highest quality services at the most competitive prices online";
+$lang["Property managers or owners of multiple properties can choose for our multi-property registration, offering unlimited access to all our services. Your own multi-property website equipped with search options is included"]="Property managers or owners of multiple properties can choose for our multi-property registration, offering unlimited access to all our services. Your own multi-property website equipped with search options is included";
+$lang["Bookerator's basic subscription will always stay free. With our Basic Plan you are able to register one property with most of our services included. The limit is 3 booking requests per month that you can respond to. If you have more than that, or you require more advanced features - we offer several premium services"]="Bookerator's basic subscription will always stay free. With our Basic Plan you are able to register one property with most of our services included. The limit is 3 booking requests per month that you can respond to. If you have more than that, or you require more advanced features - we offer several premium services";
+$lang["Bookings received through your own website are of course free and do not require commission payments"]="Bookings received through your own website are of course free and do not require commission payments";
+$lang["Some of the booking websites such as HomeAway, TripAdvisor, also offer a monthly (or annual) subscription, and may provide you with several ranking options which cost extra. They, however, don't charge any commission for individual bookings. Bookerator offers these subscriptions with an attractive discount"]="Some of the booking websites such as HomeAway, TripAdvisor, also offer a monthly (or annual) subscription, and may provide you with several ranking options which cost extra. They, however, don't charge any commission for individual bookings. Bookerator offers these subscriptions with an attractive discount";
+$lang["Most of the booking platforms work with this model. There are no upfront costs or fees for listing. You give a commission to the booking website solely when a successful booking has been made. It is important to note that Bookerator does not charge any extra commissions. You’ll only owe the percentage set by the booking websites"]="Most of the booking platforms work with this model. There are no upfront costs or fees for listing. You give a commission to the booking website solely when a successful booking has been made. It is important to note that Bookerator does not charge any extra commissions. You'll only owe the percentage set by the booking websites";
+$lang["PAY-PER-BOOKING (COMMISSION)"]="PAY-PER-BOOKING (COMMISSION)";
+$lang["Major global booking websites generally offer two models of enrollment: pay-per-booking and subscription. Bookerator cares about making </br>the booking process as effective and easy as possible, so we have made a small guide showing you how to complete this process as quick as you can"]="Major global booking websites generally offer two models of enrolment: pay-per-booking and subscription. Bookerator cares about making </br>the booking process as effective and easy as possible, so we have made a small guide showing you how to complete this process as quick as you can";
+$lang["How to settle payments with selected booking sites"]="How to settle payments with selected booking sites";
+$lang["Rentals"]="Rentals";
+$lang["Suport"]="Support";
+$lang["About us"]="About us";
+$lang["PRICING"]="PRICING";
+$lang["SIMPLY MORE BOOKINGS"]="SIMPLY MORE BOOKINGS";
+$lang["Have your holiday rental placed on multiple booking sites and synchronized automatically in just one click!"]="Have your holiday rental placed on multiple booking sites and synchronized automatically in just one click!";
+$lang["LEARN HOW"]="LEARN HOW";
+$lang["REGISTER FOR FREE"]="REGISTER FOR FREE";
+$lang["Register with Bookerator"]="Register with Bookerator";
+$lang["Select your preferred booking sites"]="Select your preferred booking sites";
+$lang["Your advert is ready to appear!"]="Your advert is ready to appear!";
+$lang["For Who is Bookerator"]="For Who is Bookerator";
+$lang["The Bookerator corporate team prides itself in offering the most diverse, professional, and effective range of services suitable for the needs and aspirations of every ambitious property owners, agents, managers and real estate agencies."]="The Bookerator corporate team prides itself in offering the most diverse, professional, and effective range of services suitable for the needs and aspirations of all ambitious property owners, agents, managers and real estate agencies.";
+$lang["Whether you are a proud owner of one single property you would like to offer to the market, a seasoned manager of multiple properties or an ambitious real estate agent with - we provide the perfect solution 100% tailored to your specific needs."]="Whether you are a proud owner of one single property you would like to offer to the market, a seasoned manager of multiple properties or an ambitious real estate agent with rental plans - we provide the perfect solution 100% tailored to your specific needs.";
+$lang["Bookerator strives to becoming the leading platform which connects property owners, managers, real estate agencies, and professional agents to the huge market available through every major booking website. We are the bridge connecting your offer"]="Bookerator strives to becoming the leading platform which connects property owners, managers, real estate agencies, and professional agents to the huge market available through every major booking website. We are the bridge connecting your offer";
+$lang["and millions of customers looking for it on the booking websites - and that connection can be made with a single posting through Bookerator."]="and millions of customers looking for it on the booking websites - and that connection can be made with a single posting through Bookerator.";
+$lang["Sounds too good to be true? Don't take our word for it - try Bookerator today and see for yourself! You can list your first property and take up to three bookings per month - completely free! If you choose to upgrade your account to include additional, premium features - you can always do so within minutes, anytime you want!"]="Sounds too good to be true? Don't take our word for it - try Bookerator today and see for yourself! You can list your first property and take up to three bookings per month - completely free! If you choose to upgrade your account to include additional, premium features - you can always do so within minutes, anytime you want!";
+$lang["Bookerator corporate team looks forward to having a successful, mutually beneficial partnership with you."]="Bookerator's corporate team looks forward to having a successful, mutually beneficial partnership with you.";
+$lang["Private Home Owner"]="Private Home Owner";
+$lang["I am a home owner and manage 1 property"]="I am a home owner with 1 property";
+$lang["I am a home owner and manage more than 1 property"]="I am a home owner with more than 1 property";
+$lang["Rental Professional"]="Rental Professional";
+$lang["Real Estate Agency"]="Real Estate Agency";
+$lang["I am a rental professional with an own PMS and booking site"]="I am a rental professional with an own booking site";
+$lang["I am a rental professional without a  PMS and  booking site"]="I am a rental professional without a booking site";
+$lang["The Advantages at a Glance"]="The Advantages at a Glance";
+$lang["More revenue"]="More revenue";
+$lang["Utilize the power of more than 100 channels and over 500 millions monthly visitors - improve your conversions and profits!"]="Utilize the power of more than 100 channels and over 500 millions monthly visitors - improve your conversions and profits!";
+$lang["More convenience"]="More convenience";
+$lang["One registration"]="One registration";
+$lang["and access all of your reservations on one screen. Bookerator works for you 24/7 to make your experience quick, easy and effective as possible!"]="and access all of your reservations on one screen. Bookerator works for you 24/7 to make your experience quick, easy and effective as possible!";
+$lang["Professional website"]="Professional website";
+$lang["You'll get"]="You'll get";
+$lang["your own professional website"]="your own professional website";
+$lang["with a synchronized calendar and accommodation details."]="with a synchronized calendar and accommodation details.";
+$lang["You are in control"]="You are in control";
+$lang["You retain absolute control in choosing on who stays at your property."]="You retain absolute control in choosing on who stays at your property.";
+$lang["Over 100 booking sites"]="Over 100 booking sites";
+$lang["All it takes is a single click for your accommodation to be published on more than 100 major booking websites."]="All it takes is a single click for your accommodation to be published on more than 100 major booking websites.";
+$lang["Calendar synchronization"]="Calendar synchronization";
+$lang["Forget all about the hassle of manual updating your bookings. All of the booking websites you have selected are updated automatically  in real time."]="Forget all about the hassle of manual updating your bookings. All of the booking websites you have selected are updated automatically in real time.";
+$lang["And best of all, you can start absolutely for free!"]="And best of all, you can start absolutely for free!";
+$lang["Partners we're proud to work with"]="Partners we're proud to work with";
+$lang["Choose from over 100 major booking<br/>platforms or even setup your own website"]="Choose from over 100 major booking<br/>platforms or even setup your own website";
+$lang["SOME OF OUR SALES CHANNELS (BOOKING SITES)"]="SOME OF OUR SALES CHANNELS (BOOKING SITES)";
+$lang["FAQs - Channel Manager"]="FAQ - Channel Manager";
+$lang["I already have various accounts with booking sites, what should I do?"]="I already have various accounts with booking sites, what should I do?";
+$lang["That's easy – just cancel those accounts and re-connect using Bookerator. Now you can manage all your booking sites through one account – your Bookerator dashboard."]="That's easy – just cancel those accounts and re-connect using Bookerator. Now you can manage all your booking sites through one account – your Bookerator dashboard.";
+$lang["What happens if I choose a booking site where my property is already listed?"]="What happens if I choose a booking site where my property is already listed?";
+$lang["Then your property cannot be managed by Bookerator."]="Then your property cannot be managed by Bookerator.";
+$lang["When are my new listing visible on the booking sites?"]="When are my new listing visible on the booking sites?";
+$lang["It will takes on average 48 hours for us and the booking sites to check your registration."]="It will take a few days for us and the booking sites to check your registration.";
+$lang["Do I have to pay commission for bookings to Bookerator?"]="Do I have also to pay commission for bookings to Bookerator?";
+$lang["No, Bookerator does not charge for bookings."]="No, Bookerator does not charge for bookings.";
+$lang["Can I also buy subscriptions for HomeAway and other booking sites?"]="Can I also buy subscriptions for HomeAway and other booking sites?";
+$lang["Sure, we offer a big discount on subscriptions acquired through us. Just send us an email if you're interested."]="Sure, we offer a big discount on subscriptions acquired through us. Just send us an email if you're interested. ";
+$lang["Which features do I have with a basic subscription?"]="Which features do I have with a basic subscription?";
+$lang["Contact Form"]="Contact Form";
+$lang["Required"]="Required";
+$lang["SEND"]="SEND";
+$lang["MESSAGE"]="MESSAGE";
+$lang["Press"]="Press";
+$lang["Traveller"]="Traveller";
+$lang["Booking Site"]="Booking Site";
+$lang["Rental Professional"]="Rental Professional";
+$lang["Property Manager"]="Property Manager";
+$lang["Select"]="Select";
+$lang["SELECT CATEGORY"]="SELECT CATEGORY";
+$lang["SUBJECT"]="SUBJECT";
+$lang["Company"]="Company";
+$lang["Support"]="Support";
+$lang["Login"]="Login";
+$lang["TERMS & CONDITIONS"]="TERMS & CONDITIONS";
+$lang["PRIVACY POLICY"]="PRIVACY POLICY";
+$lang["RENTERS"]="PAYMENT PROTECTION";
+$lang["Channel Manager"]="Channel Manager";
+$lang["CONTACT"]="CONTACT";
+
+
+$lang["In 3 steps your ad will be online on dozens of major booking sites"]="In 3 steps your ad will be online on dozens of major booking sites";
+$lang["SUBSCRIPTION"]="SUBSCRIPTION";
+$lang["OWN WEBSITE"]="OWN WEBSITE";
+$lang["Forgot password?"]="Forgot password?";
+$lang["I accept the"]="I accept the";
+$lang["Terms & Conditions"]="Terms & Conditions";
+$lang["Terms & Conditions"]="Terms & Conditions";
+$lang["Boost your revenue"]="Boost your revenue";
+$lang["Through the Bookerator network you can reach over 500 million potential renters worldwide."]="Through the Bookerator network you can reach over 500 million potential renters worldwide.";
+$lang["Bookerator services are for free. There is no beter deal!"]="Bookerator services are for free. There is no beter deal!";
+$lang["Just one dashboard"]="Just one dashboard";
+$lang["Manage and control all bookings and booking sites from one screen. Keep your calendar up-to-date. Easy does it with our professional booking system."]="Manage and control all bookings and booking sites from one screen. Keep your calendar up-to-date. Easy does it with our professional booking system.";
+$lang["Agency"]="Agency";
+$lang["Property manager"]="Property manager";
+$lang["Real Estate Agency"]="Real Estate Agency";
+$lang["Country Code"]="Country Code";
+$lang["Coupon Code"]="Coupon Code";
+$lang["Pay with"]="Pay with";
+$lang["These contacts can be assigned to any of your registered properties. In the property section you can assign the contact of your choice to that specific property"]="These contacts can be assigned to any of your registered properties. In the property section you can assign the contact of your choice to that specific property";
+$lang["Add mobile number"]="Add mobile number";
+$lang["Not Active"]="Not Active";
+$lang["Edit Contact"]="Edit Contact";
+$lang["For more information and questions please go to the FAQs or use the contact form below."]="For more information and questions please go to the FAQ or use the contact form below.";
+$lang["NAME"]="NAME";
+$lang["Contact details updated successfully."]="Contact details updated successfully.";
+$lang["Contact details delete successfully."]="Contact details delete successfully.";
+$lang["Contact details inserted successfully."]="Contact details inserted successfully.";
+$lang["Contact Details"]="Contact Details";
+
+$lang["Click here to return to the dashboard"]="Click here to return to the dashboard";
+$lang["Are you sure you want to delete this information"]="Are you sure you want to delete this information";
+$lang["SINGLE PROPERTY"]="SINGLE PROPERTY";
+$lang["MULTI-PROPERTY"]="MULTI-PROPERTY";
+$lang["PAY MONTHLY"]="PAY MONTHLY";
+$lang["PAY YEARLY"]="PAY YEARLY";
+$lang["unlimited"]="unlimited";
+$lang["Free"]="Free";
+$lang["property"]="property";
+$lang["properties"]="properties";
+$lang["For landlords who want more revenue, more convenience and still remain in control... for free!"]="For landlords who want more revenue, more convenience and still remain in control... for free!";
+$lang["NO CREDITCARD REQUIRED."]="NO CREDITCARD REQUIRED.";
+$lang["max. 3 per month"]="max. 3 per month";
+$lang["YES"]="YES";
+$lang["PREMIUM"]="PREMIUM";
+$lang["BASIC"]="BASIC";
+$lang["MULTI-PROPERTY"]="MULTI-PROPERTY";
+
+$lang["SIGNUP"]="SIGN UP";
+$lang["VIEW PLANS"]="VIEW PLANS";
+$lang["SIGNUP FOR FREE"]="SIGN UP FOR FREE";
+$lang["FAQs - Pricing"]="FAQ - Pricing";
+$lang["How much does it cost to advertise my holiday rental through Bookerator?"]="How much does it cost to advertise my holiday rental through Bookerator?";
+$lang["Nothing, it's for free. You only pay the booking cost of the booking site that has managed the reservation."]="Here are the best news - it is completely free! That's right, no hidden fees, no spamming emails or advertising offers. You can list your property and receive up to 3 bookings monthly for free. If you decide you want to grow your business and require additional, Premium features - you are always free to get one of our Premium subscriptions with a click of your mouse. ";
+$lang["Can I cancel my Bookerator subscription easily?"]="Can I cancel my Bookerator subscription easily?";
+$lang["Yes, if you have a Premium or Multi-property subscription just cancel not later than three days before your subscription ends."]="Yes, if you have a Premium or Multi-property subscription you are always able to just cancel it, as long as its within the time frame of three days before your subscription ends.";
+$lang["What types of payment do you accept?"]="What types of payment do you accept?";
+$lang["All major credit cards as well as PayPal."]="All major credit cards as well as PayPal.";
+$lang["Do you charge commission on bookings?"]="Do you charge commission on bookings?";
+$lang["No, we do not."]="No, we do not.";
+$lang["Can I switch subscriptions anytime?"]="Can I switch subscriptions anytime?";
+$lang["Yes, you can change your subscription any time you want. If you want to upgrade, it can be done immediately. Otherwise you can downgrade at the end your current period."]="Absolutely, you are able to change your subscription at all times. You can upgrade your premium subscription within minutes, at any given period, while youÕre also able to downgrade at the end of your current period. ItÕs fast, easy and effective!";
+$lang["Does Bookerator offer discounts for a Premium Subscription?"]="Does Bookerator offer discounts for a Premium Subscription?";
+$lang["Yes, 20% discount if you buy an annual subscription."]="Yes, 20% discount if you buy an annual subscription.";
+$lang["How do I pay my monthly subscription?"]="How do I pay my monthly subscription?";
+$lang["We automatically charge your credit card each month and inform you about each payment."]="We automatically charge your credit card each month and inform you about each payment.";
+$lang["delete existing listings on other booking sites"]="Make sure all Channel requirements are met (Checklist).";
+$lang["select booking sites in the Channel Manager"]="Now you can connect all properties. Click on CONNECT button under checklist.";
+$lang["everything will be synchronised automatically"]="Wait a few days for your properties to be checked and published and ready to receive bookings.";
+$lang["You decide on which booking sites your property is published. With the Channel Manager you manage your publications on the booking sites. Each booking site has its own terms, a copy of which is attached and needs to be accepted. After having selected the booking sites it will take a few days before your accommodation is checked and placed online. NB: If your property is already listed on one or more of the newly selected booking sites they need to be removed. Bookerator will take care of the new listings on the selected booking sites which will be automatically connected with your dashboard."]="This is the Channel Manager, here you select and manage all your booking sites (Channels). Once you have activated a Channel you have to connect your properties in order for them to be published. Disconnecting the properties will hide your pages on that Channel. All changes you make in your Bookerator Dashboard - accommodation details, images, prices, availability etc. - will be synchronized. There is no need to register and visit the Channels, everything will be managed from here.";
+
+$lang["Find websites to advertise your properties on. Add at least 1 to be taken to the next step."]=" ";
+$lang["Display"]="Display";
+$lang["Select Status"]="Select Status";
+$lang["All"]="All";
+$lang["My Channels (All)"]="My Channels (All)";
+$lang["My Channels (Incomplete checklist)"]="My Channels (Incomplete checklist)";
+$lang["My Channels (Activated)"]="My Channels (Activated)";
+$lang["My Channels (Not active)"]="My Channels (Not active)";
+$lang["Not connected"]="Not connected";
+$lang["We have pre-filtered the search according to your answers in your public profile. Tick and untick to see more best matches."]="We have pre-filtered the search according to your answers in your public profile. Tick and untick to see more best matches.";
+$lang["Property Location"]="Property Location";
+$lang["Worldwide"]="Worldwide";
+$lang["select from more than 100 booking sites"]="select from more than 100 booking sites";
+$lang["all reservations and calendar mutations are synchronized real-time - no more double bookings"]="all reservations and calendar mutations are synchronized real-time - no more double bookings";
+$lang["your property information is synchronized with all chosen booking sites"]="your property information is synchronized with all chosen booking sites";
+$lang["have a clear overview of all reservations and respond swiftly and automatically to new booking requests"]="have a clear overview of all reservations and respond swiftly and automatically to new booking requests";
+$lang["Basic users are limited to respond to a maximum of 3 booking request per calendar month"]="Basic users are limited to respond to a maximum of 3 booking request per calendar month";
+$lang["9 languages: English, French, Spanish, German, Italian, Catalan, Portuguese, Dutch and Greek"]="9 languages: English, French, Spanish, German, Italian, Catalan, Portuguese, Dutch and Greek";
+
+$lang["all visitors can book your property through booking sites or on your own website"]="all visitors can book your property through booking sites or on your own website";
+$lang["your own website with all properties listed"]="your own website with all properties listed";
+$lang["search engine with filter options for easy searches on your website"]="search engine with filter options for easy searches on your website";
+$lang["NO"]="No";
+$lang["from"]="from";
+
+$lang["Show Filters"]="Show Filters";
+$lang["Select Language"]="Select Language";
+$lang["Max Commission"]="Max Commission";
+$lang["Include Net Rate"]="Include Net Rate";
+$lang["Subscription possible"]="Subscription possible";
+$lang["Instant Booking"]="Instant Booking";
+$lang["Booking Request"]="Booking Request";
+$lang["Location Properties"]="Location Properties";
+$lang["What is synchronized"]="What is synchronized";
+$lang["Property details"]="Property details";
+$lang["Bookings"]="Bookings";
+$lang["Availability calendar"]="Availability calendar";
+$lang["New registration"]="New registration";
+$lang["Markets/segments"]="Markets/segments";
+$lang["Connect"]="Connect";
+$lang["No Channels Found"]="No Channels Found";
+$lang["Go To CheckList"]="Go To CheckList";
+$lang["Edit"]="Edit";
+$lang["Check list"]="Check List";
+$lang["Each step needs be ticked before we can connect your properties"]="Each step needs be ticked before we can connect your properties";
+$lang["I have read & Accept the T&C"]="I have read & Accept the T&C";
+$lang["Profile Ð Missing Required Data Check"]="Check if all 'Required Data' is present";
+$lang["Profile Check Completed ...."]="Profile Check Completed ....";
+$lang["Check your profile's missing required data"]="Check your profile's missing Required Data";
+$lang["Check Required Data"]="Check Required Data";
+$lang["Initial Price settings"]="Rate & Booking Settings";
+$lang["Mark Up"]="Mark Up";
+$lang["Mark up tooltip"]="This is the % that will be added on top of your saved rates.";
+$lang["Booking Method"]="Booking Method";
+$lang["Instant Booking"]="Instant Booking";
+$lang["Booking Request"]="Booking Request";
+$lang["Instant Booking / Booking Request"]="Select your preferred method receiving bookings. Only methods offered by the Channel can be selected.";
+$lang["Save Price Settings"]="Save Price Settings";
+$lang["I have checked my properties in"]="Do you already have an account in";
+$lang["Please Choose"]="Please Choose";
+$lang["I already have an account in"]="Yes";
+$lang["I don't have an account in"]="No";
+$lang["I understand these instructions"]="I understand these instructions";
+$lang["Connect my properties"]="Connect my properties";
+$lang["Disconnect"]="Disconnect";
+$lang["Male"]="Male";
+$lang["Female"]="Female";
+$lang["If you live in a country where we need to charge VAT, you will not be charged VAT if you enter a valid VAT ID Number."]="If you live in a country where we need to charge VAT, you will not be charged VAT if you enter a valid VAT ID Number.";
+$lang["and"] = "and";
+$lang["adds"] = " ";
+$lang["Subscription plan"] = "Subscription Plan";
+$lang["Payment Details"] = "Payment Details";
+$lang["Click here to try again"] = "Click here to try again";
+$lang["off"] = "off";
+$lang["Email"]="Email";
+$lang["for your own website for a single property, add &euro; 5 per month"] = "for your own website for a single property, add &euro; 5 per month";
+$lang["your property price is synchronized with all chosen booking sites"]="your property price is synchronized with all chosen booking sites";
+$lang["tooltip_extensive_support"]="We strive to answer all questions within 24 hours, but don't be suprised when our team gets back to you within minutes";
+$lang["tooltip_unlimited_booking_requests"]="Receive unlimited booking requests";
+$lang['Terms & Conditions Channel Edit'] = "Bookerator will be enforcing the Terms & Conditions on behalf of the Channel.";
+$lang['Confirmation Email has been to your email address Ð also check SPAM folder if not received after a few minutes .'] = "A confirmation email has been to your email address Ð also check SPAM folder if not received after a few minutes.";
+$lang["Your account has been successfully activated. Please get login for more features"]="Your account has been successfully activated. Please login to start using Bookerator.";
+$lang["I have read & Accept the T&C"]="I have Read and Accepted the T&C";
+$lang["Delete Listing"]="Delete Property";
+$lang["This will add"]="This will add";
+$lang["to this package"]="to this package";
+
+//laguages
+$lang["Arabic"]="Arabic";
+$lang["Mandarin"]="Mandarin";
+$lang["Chinese"]="Chinese";
+$lang["Norwegian"]="Norwegian";
+$lang["Croatian"]="Croatian";
+$lang["Polish"]="Polish";
+$lang["Czech"]="Czech";
+$lang["Portuguese"]="Portuguese";
+$lang["Danish"]="Danish";
+$lang["Romanian"]="Romanian";
+$lang["Dutch"]="Dutch";
+$lang["Russian"]="Russian";
+$lang["English"]="English";
+$lang["Singhalese"]="Singhalese";
+$lang["Finnish"]="Finnish";
+$lang["Slovenian"]="Slovenian";
+$lang["French"]="French";
+$lang["Slovak"]="Slovak";
+$lang["German"]="German";
+$lang["Spanish"]="Spanish";
+$lang["Greek"]="Greek";
+$lang["Swahili"]="Swahili";
+$lang["Hungarian"]="Hungarian";
+$lang["Swedish"]="Swedish";
+$lang["Indonesian"]="Indonesian";
+$lang["Turkish"]="Turkish";
+$lang["Italian"]="Italian";
+$lang["Yugoslaw"]="Yugoslaw";
+$lang["Korean"]="Korean";
+
+$lang["MULTI-PROPERTY REGISTRATION"]="MULTI-PROPERTY REGISTRATION";
+$lang["an own website for a single property"] = "an own website for a single property";
+
+//Months
+$lang["January"]="January";
+$lang["February"]="February";
+$lang["March"]="March";
+$lang["April"]="April";
+$lang["May"]="May";
+$lang["June"]="June";
+$lang["July"]="July";
+$lang["August"]="August";
+$lang["September"]="September";
+$lang["October"]="October";
+$lang["November"]="November";
+$lang["December"]="December";
+
+?>
